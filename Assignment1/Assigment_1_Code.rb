@@ -129,7 +129,7 @@ we are able to ask for the names of the genes that are genetically related
 i=0
   cross_array.each do |chisquare|
   if cross_array[i].chisquare > 8
-    puts "Recording: #{seed_stock_to_gene(genes_seed_stock_array, "#{cross_array[i].parent1}")} is genetically linked to #{seed_stock_to_gene(genes_seed_stock_array, "#{cross_array[i].parent1}")} with a chisquare score #{cross_array[i].chisquare}"
+    puts "Recording: #{seed_stock_to_gene(genes_seed_stock_array, "#{cross_array[i].parent1}")} is genetically linked to #{seed_stock_to_gene(genes_seed_stock_array, "#{cross_array[i].parent2}")} with a chisquare score #{cross_array[i].chisquare}"
   end
   i=i+1
   end
