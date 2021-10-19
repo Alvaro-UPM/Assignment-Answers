@@ -94,10 +94,42 @@ cross_data_lines.each do |x|
 end
 cross_array #checking
 
+=begin
+In order to obtain the gene names of the genes that are related
+we create a new class called "Gene_to_Seed_Stock" in which we combine
+both gene_information.tsv and seed_stock_data.tsv in an new array of instance
+with their columns as properties
+=end
+require "./Class_Gene_to_Seed_Stock.rb"
+
+i=0
+genes_seed_stock_array = []
+gene_information_lines.each do |x|
+  y = seed_stock_data_lines[i]
+  genes_seed_stock_array[i] = Gene_to_Seed_Stock.new(x, y)
+  i=i+1
+end
+genes_seed_stock_array #the new combined array
+
+#we define this function to "traduce" a seed_stock to a gene_name using the genes_seed_stock_array
+def seed_stock_to_gene (array, seed_stock)
+ 
+  array.each do |x|
+    if x.seed_stock == seed_stock
+      return x.gene_name
+    end
+  end
+  
+end
+
+=begin
+#with this recorring the cross_array and using the "seed_stock_to_gene" function,
+we are able to ask for the names of the genes that are genetically related 
+=end
 i=0
   cross_array.each do |chisquare|
   if cross_array[i].chisquare > 8
-    puts "Recording: #{cross_array[i].parent1} is genetically linked to #{cross_array[i].parent2} with a chisquare score #{cross_array[i].chisquare}"
+    puts "Recording: #{seed_stock_to_gene(genes_seed_stock_array, "#{cross_array[i].parent1}")} is genetically linked to #{seed_stock_to_gene(genes_seed_stock_array, "#{cross_array[i].parent1}")} with a chisquare score #{cross_array[i].chisquare}"
   end
   i=i+1
   end

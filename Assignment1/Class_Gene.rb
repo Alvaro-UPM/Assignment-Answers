@@ -26,7 +26,7 @@ to a property of the class objects.
     newdata = line.split("\t")
     gene_id = newdata[0]
     name = newdata[1] 
-    phenotype = newdata[2].partition("\n")[0]#
+    phenotype = newdata[2].partition("\n")[0] #just to remove the "\n" at the end of the line
     
     #this is pretended to by the answers to the bonus 1
     #.................start answers to the bonus 1.......................
