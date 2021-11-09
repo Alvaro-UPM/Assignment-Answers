@@ -5,7 +5,7 @@ Later, we enter these array in our class Gen as input.
 Note that subnetwork means that we are using one of the subnetworks analyzed in the scientific paper of the task.
 =end
 
-subnetwork = File.new("/home/osboxes/Course/Assignment-Answers/Assignment2/ArabidopsisSubNetwork_GeneList.txt", "r")
+subnetwork = File.new("./ArabidopsisSubNetwork_GeneList.txt", "r")
 
 subnetwork_lines = File.readlines(subnetwork)
 subnetwork_lines
