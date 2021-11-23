@@ -2,7 +2,7 @@
 First, we simply open the file and we obtain the lines (using File.readlines that split at "\n").
 Since each line is a AGI and the final "\n", we remove this "\n" from each line and we get the "clean" AGIs 
 from our file in an array ("original_agi").
-Later, we enter these array in our class "Interactions" as input.
+Later, we introduce the strings (element) of this array in our class "Interactions" as input.
 =end
 
 original_list = File.new("./ArabidopsisSubNetwork_GeneList.txt", "r")
@@ -13,7 +13,7 @@ original_agi = []
 i=0
 original_list_lines.each do |x|
   original_agi[i] = original_list_lines[i].partition("\n")[0].downcase
-    #We covert it into downcase (lowercase) to make more easy the future "comparations" between them to obtain the interactions
+    # We convert it into downcase (lowercase) to make more easy the future "comparations" between them to obtain the interactions
   i=i+1
 end
 
@@ -54,16 +54,16 @@ there are two original AGIs list genes that interact directly)
 
 original_direct_interactions = []
 each_group_interactor = []
-k=0 #original_direct_interactions array's iterative parameter (+1 each time we add a new direct interaction)
-l=0 #iterative parameter of the AGIs original introduced the Gene class, to go through them ("each_group_interactor array")
-#and pick up their Interactions class's AGIs
+k=0 # original_direct_interactions array's iterative parameter (+1 each time we add a new direct interaction)
+l=0 # iterative parameter of the AGIs original introduced the Gene class, to go through them ("each_group_interactor array")
+# and pick up their Interactions class's AGIs
 interactions_arr.each do |x|
   each_group_interactor = interactions_arr[l].gen_interactions
-  i=0 #iterative parameter that take every single direct interaction ("each_interactor") of the group that is running at that moment
+  i=0 # iterative parameter that take every single direct interaction ("each_interactor") of the group that is running at that moment
   each_interactor = []
     each_group_interactor.each do |x|
       each_interactor = each_group_interactor[i]
-      j=l #iterative parameter to obtain each original AGI into an array called "each_original_agi"
+      j=l # iterative parameter to obtain each original AGI into an array called "each_original_agi"
       # j is equal to l (the iterative parameter of the AGIs original introduced the Gene class) to avoid repeating comparations.
       each_original_agi = []
         original_agi.each do |x|
@@ -79,7 +79,7 @@ interactions_arr.each do |x|
         i=i+1
     end
     l=l+1
-#we add +1 to the iterative parameters at the correct moment
+# we add +1 to the iterative parameters at the correct moment
 end
 original_direct_interactions #final "direct_interactions" array
 
@@ -95,9 +95,9 @@ and the other original gene that interact indirectly with the first one.
 
 original_indirect_interactions = []
 each_group_interactor = []
-k=0 #original_indirect_interactions array's iterative parameter (+1 each time we add a new indirect interaction)
-l=0 #iterative parameter of the AGIs original introduced into the Gene class, to go through them ("each_group_interactor array")
-#and pick up their respective second interactions
+k=0 # original_indirect_interactions array's iterative parameter (+1 each time we add a new indirect interaction)
+l=0 # iterative parameter of the AGIs original introduced into the Gene class, to go through them ("each_group_interactor array")
+# and pick up their respective second interactions
 interactions_arr.each do |x|
   n=0 # second interactions iterative parameter ("each_subgroup_interactor array")
   #(it goes to zero when start with a new original AGI introduced in the class)
@@ -105,7 +105,7 @@ interactions_arr.each do |x|
   each_subgroup_interactor = []
   each_group_interactor.each do |x|
     each_subgroup_interactor = interactions_arr[l].gen_interactions2[n]
-    i=0 #iterative parameter that take every single second interaction ("each_interactor") of the subgroup that is running at that moment
+    i=0 # iterative parameter that take every single second interaction ("each_interactor") of the subgroup that is running at that moment
     each_interactor = []
       each_subgroup_interactor.each do |x|
         each_interactor = each_subgroup_interactor[i] 
@@ -118,7 +118,7 @@ interactions_arr.each do |x|
               original_indirect_interactions[k] = interactions_arr[l].gen_agi, interactions_arr[l].gen_interactions[n], original_agi[j]
               # if we have "match" then, we get together as an array into the "indirect_interactions" array three genes (see in line below): 
               # the original two AGIs that interact indirectly and the "mediator" gene (in the middle position)
-              k=k+1 #if we have match we add +1 index to the "indirect_interactions" array
+              k=k+1 # if we have match we add +1 index to the "indirect_interactions" array
             end
             j=j+1
           end
@@ -127,13 +127,13 @@ interactions_arr.each do |x|
       n=n+1
       end
       l=l+1
-#we add +1 to the iterative parameters at the correct moment
+# we add +1 to the iterative parameters at the correct moment
   end
 original_indirect_interactions #final "indirect_interactions" array
 
 all_interactions = original_direct_interactions + original_indirect_interactions
 
-#we combine the direct and indirect interactions in an array called "all_interactions"
+# we combine the direct and indirect interactions in an array called "all_interactions"
 
 =begin
 In order to establish the final interaction networks, we create a new array called "all_uniq" in which
@@ -153,13 +153,13 @@ all_interactions.each do |x|
   i=i+1
 end
 
-#We use this code to achieve the "final_interaction_networks" array u
-#using the strategy that we have explained in the last comment.
+# We use this code to achieve the "final_interaction_networks" array 
+# using the strategy that we have explained in the last comment.
 #...................
 final_interaction_networks = []
-breaker = 0 #we define breaker to do a while in which we itinerate
-#looking for more genes in common between all the interaction networks
-#until the interaction networks obtained are exactly the same as the previous one (and we change breaker to value 1)
+breaker = 0 # we define breaker to do a while in which we itinerate
+# looking for more genes in common between all the interaction networks
+# until the interaction networks obtained are exactly the same as the previous one (and we change breaker to value 1)
 while breaker == 0
   interaction_groups = []
   each=0
@@ -173,7 +173,7 @@ while breaker == 0
       n=0
       group.each do |x|
       agi = group[n]
-        if match_uniq.match(agi) #if there is match between the "all_uniq" element and one agi of the interaction networks
+        if match_uniq.match(agi) # if there is match between the "all_uniq" element and one agi of the interaction networks
           interaction_groups[each] = concat.concat(group)
           interaction_groups = interaction_groups.uniq.compact
         end
@@ -184,15 +184,15 @@ while breaker == 0
       each=each+1
   end
   if all_interactions != interaction_groups #if the interaction networks are not equal to the previous one (the first are "all_interactions)
-    #then set "all_interactions" as the new "interaction_groups"
+    # then set "all_interactions" as the new "interaction_groups"
     all_interactions = interaction_groups
   else
-    final_interaction_networks = interaction_groups #else, set "final_interaction_groups" as the actual "interaction_groups"
-    breaker = 1 #and change the breaker value to 1 in order to end the initial while loop
+    final_interaction_networks = interaction_groups # else, set "final_interaction_groups" as the actual "interaction_groups"
+    breaker = 1 # and change the breaker value to 1 in order to end the initial while loop
   end
 end
-final_interaction_networks #here we have the final interaction networks that connect the genes of our original AGIs list
-#including in th networks the "intermediates" genes that are not in our original list
+final_interaction_networks # here we have the final interaction networks that connect the genes of our original AGIs list
+# including in th networks the "intermediates" genes that are not in our original list
 #..................
 
 =begin
@@ -226,7 +226,7 @@ original_interaction_networks
 
 require "./InteractionNetwork_Class"
 
-#We introduce the interaction networks inside the InteractionNetwork class to use its method get_kegg and get_go
+# We introduce the interaction networks inside the InteractionNetwork class to use its method get_kegg and get_go
 # in order to get the KEGG and GO annotations
 i=0
 interaction_networks = []
