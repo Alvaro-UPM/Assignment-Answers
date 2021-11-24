@@ -175,12 +175,12 @@ while breaker == 0
       agi = group[n]
         if match_uniq.match(agi) # if there is match between the "all_uniq" element and one agi of the interaction networks
           interaction_groups[each] = concat.concat(group)
-          interaction_groups = interaction_groups.uniq.compact
         end
         n=n+1
         end
       m=m+1
       end
+      interaction_groups = interaction_groups.uniq.compact
       each=each+1
   end
   if all_interactions != interaction_groups #if the interaction networks are not equal to the previous one (the first are "all_interactions)
@@ -212,12 +212,12 @@ original_agi.each do |x|
         if match_original.match(agi)
           agi_arr = [agi]
           original_interaction_networks[each] = concat.concat(agi_arr)
-          original_interaction_networks = original_interaction_networks.uniq.compact
         end
         n=n+1
         end
       m=m+1
       end
+      original_interaction_networks = original_interaction_networks.uniq.compact
       each=each+1
   end
 original_interaction_networks
