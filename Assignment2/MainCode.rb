@@ -39,8 +39,6 @@ original_agi.each do |x|
   interactions_arr[i] = Interactions.new(x) 
 i=i+1
 end
-=end
-
 
 
 =begin
@@ -237,18 +235,28 @@ end
 
 
 #...................Final Report.............
-puts "Final Report:"
+=begin
+#In the report attached we do this but using the "all_interactions" array, that is using
+all the direct and indirect interactions between the original list but without the integration of them into interaction networks.
+I am sorry about that.
+=end
+
+report = File.open('report.txt','w')
+
 i=0
-interaction_networks.each do |x|
-  puts """
-  Interaction Network #{i}
-  These genes of the origina list interact with each other direct or indirectly:
+interaction_networks.compact.each do |x|
+  x = """Interaction Network #{i}
+  These genes of the original list interact with each other direct or indirectly:
   #{interaction_networks[i].interaction_network}.
+  
   Taking all of them into account we get the following KEGG annotations:
   #{interaction_networks[i].get_kegg}
+  
   And the the following GO annotations:
   #{interaction_networks[i].get_go}
   """
+  report.puts(x)
   i=i+1
 end
+report.close
   

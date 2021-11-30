@@ -1,0 +1,2210 @@
+Interaction Network 0
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g04140", "at4g37980"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00630 Glyoxylate and dicarboxylate metabolism", "ath00910 Nitrogen metabolism", "ath00940 Phenylpropanoid biosynthesis", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites"]
+  
+  And the the following GO annotations:
+  ["0019676 ammonia assimilation cycle", "0006537 glutamate biosynthetic process", "0009853 photorespiration", "0080114 positive regulation of glycine hydroxymethyltransferase activity", "0009416 response to light stimulus", "0009744 response to sucrose", "0006541 glutamine metabolic process", "0010597 green leaf volatile biosynthetic process", "0009809 lignin biosynthetic process", "0009617 response to bacterium"]
+  
+Interaction Network 1
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g46340", "at5g15850"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath04712 Circadian rhythm - plant", {}]
+  
+  And the the following GO annotations:
+  ["0009658 chloroplast organization", "0010100 negative regulation of photomorphogenesis", "0009640 photomorphogenesis", "0009637 response to blue light", "0010218 response to far red light", "0010114 response to red light", "0009909 regulation of flower development"]
+  
+Interaction Network 2
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at4g02770"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath00195 Photosynthesis", "ath01100 Metabolic pathways"]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0140547 acquisition of seed longevity", "0015979 photosynthesis", "0035556 intracellular signal transduction"]
+  
+Interaction Network 3
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at1g20020"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath00195 Photosynthesis", "ath01100 Metabolic pathways"]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0042742 defense response to bacterium", "0050832 defense response to fungus", "0015979 photosynthesis", "0006260 DNA replication"]
+  
+Interaction Network 4
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g09340", "at3g63140"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0042631 cellular response to water deprivation", "0009658 chloroplast organization", "0007623 circadian rhythm", "0042742 defense response to bacterium", "0005996 monosaccharide metabolic process", "0032544 plastid translation", "0000272 polysaccharide catabolic process", "0045727 positive regulation of translation", "0010468 regulation of gene expression", "0009409 response to cold", "0009611 response to wounding", "0006364 rRNA processing"]
+  
+Interaction Network 5
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g54270", "at4g37140", "at2g34420"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0010119 regulation of stomatal movement", "0009737 response to abscisic acid", "0009635 response to herbicide", "0009644 response to high light intensity", "0009416 response to light stimulus", "0006412 translation", "0009793 embryo development ending in seed dormancy", "0032875 regulation of DNA endoreduplication"]
+  
+Interaction Network 6
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g54270", "at5g12980", "at3g27690"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", "ath03018 RNA degradation"]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0010119 regulation of stomatal movement", "0009737 response to abscisic acid", "0009635 response to herbicide", "0009644 response to high light intensity", "0009416 response to light stimulus", "0006412 translation", "0017148 negative regulation of translation", "0071215 cellular response to abscisic acid stimulus", "1903428 positive regulation of reactive oxygen species biosynthetic process", "0090333 regulation of stomatal closure", "0009409 response to cold", "0009269 response to desiccation", "0010218 response to far red light", "0009645 response to low light intensity stimulus", "0010114 response to red light", "0030104 water homeostasis"]
+  
+Interaction Network 7
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g54270", "at5g45870", "at3g27690"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", "ath04016 MAPK signaling pathway - plant", "ath04075 Plant hormone signal transduction"]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0010119 regulation of stomatal movement", "0009737 response to abscisic acid", "0009635 response to herbicide", "0009644 response to high light intensity", "0009416 response to light stimulus", "0006412 translation", "0071215 cellular response to abscisic acid stimulus", "1903428 positive regulation of reactive oxygen species biosynthetic process", "0090333 regulation of stomatal closure", "0009409 response to cold", "0009269 response to desiccation", "0010218 response to far red light", "0009645 response to low light intensity stimulus", "0010114 response to red light", "0030104 water homeostasis"]
+  
+Interaction Network 8
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g54270", "at4g37930", "at2g45170"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", "ath00260 Glycine, serine and threonine metabolism", "ath00460 Cyanoamino acid metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath00670 One carbon pool by folate", "ath01110 Biosynthesis of secondary metabolites", "ath01200 Carbon metabolism", "ath01230 Biosynthesis of amino acids", "ath01240 Biosynthesis of cofactors", "ath04136 Autophagy - other"]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0010119 regulation of stomatal movement", "0009737 response to abscisic acid", "0009635 response to herbicide", "0009644 response to high light intensity", "0009416 response to light stimulus", "0006412 translation", "0007623 circadian rhythm", "0046655 folic acid metabolic process", "0019264 glycine biosynthetic process from serine", "0006544 glycine metabolic process", "0009853 photorespiration", "0046686 response to cadmium ion", "0009409 response to cold", "0035999 tetrahydrofolate interconversion", "0046653 tetrahydrofolate metabolic process", "0032259 methylation", "0006914 autophagy", "0006995 cellular response to nitrogen starvation", "0009267 cellular response to starvation", "0015031 protein transport", "0045471 response to ethanol"]
+  
+Interaction Network 9
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g54270", "at4g37930", "at5g04140"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", "ath00260 Glycine, serine and threonine metabolism", "ath00460 Cyanoamino acid metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath00670 One carbon pool by folate", "ath01110 Biosynthesis of secondary metabolites", "ath01200 Carbon metabolism", "ath01230 Biosynthesis of amino acids", "ath01240 Biosynthesis of cofactors", "ath00910 Nitrogen metabolism"]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0010119 regulation of stomatal movement", "0009737 response to abscisic acid", "0009635 response to herbicide", "0009644 response to high light intensity", "0009416 response to light stimulus", "0006412 translation", "0007623 circadian rhythm", "0046655 folic acid metabolic process", "0019264 glycine biosynthetic process from serine", "0006544 glycine metabolic process", "0009853 photorespiration", "0046686 response to cadmium ion", "0009409 response to cold", "0035999 tetrahydrofolate interconversion", "0046653 tetrahydrofolate metabolic process", "0032259 methylation", "0019676 ammonia assimilation cycle", "0006537 glutamate biosynthetic process", "0080114 positive regulation of glycine hydroxymethyltransferase activity", "0009744 response to sucrose", "0006541 glutamine metabolic process"]
+  
+Interaction Network 10
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g54270", "at1g79870", "at3g27690"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", "ath00260 Glycine, serine and threonine metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath01110 Biosynthesis of secondary metabolites", "ath01200 Carbon metabolism"]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0010119 regulation of stomatal movement", "0009737 response to abscisic acid", "0009635 response to herbicide", "0009644 response to high light intensity", "0009416 response to light stimulus", "0006412 translation", "0009854 oxidative photosynthetic carbon pathway", "0071215 cellular response to abscisic acid stimulus", "1903428 positive regulation of reactive oxygen species biosynthetic process", "0090333 regulation of stomatal closure", "0009409 response to cold", "0009269 response to desiccation", "0010218 response to far red light", "0009645 response to low light intensity stimulus", "0010114 response to red light", "0030104 water homeostasis"]
+  
+Interaction Network 11
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g54270", "at1g79870", "at2g34420"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", "ath00260 Glycine, serine and threonine metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath01110 Biosynthesis of secondary metabolites", "ath01200 Carbon metabolism"]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0010119 regulation of stomatal movement", "0009737 response to abscisic acid", "0009635 response to herbicide", "0009644 response to high light intensity", "0009416 response to light stimulus", "0006412 translation", "0009854 oxidative photosynthetic carbon pathway", "0032875 regulation of DNA endoreduplication"]
+  
+Interaction Network 12
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g54270", "at1g79870", "at5g35630"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", "ath00260 Glycine, serine and threonine metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath01110 Biosynthesis of secondary metabolites", "ath01200 Carbon metabolism", "ath00220 Arginine biosynthesis", "ath00250 Alanine, aspartate and glutamate metabolism", "ath00910 Nitrogen metabolism", "ath01230 Biosynthesis of amino acids"]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0010119 regulation of stomatal movement", "0009737 response to abscisic acid", "0009635 response to herbicide", "0009644 response to high light intensity", "0009416 response to light stimulus", "0006412 translation", "0009854 oxidative photosynthetic carbon pathway", "0007568 aging", "0019676 ammonia assimilation cycle", "0006542 glutamine biosynthetic process", "0046686 response to cadmium ion", "0006807 nitrogen compound metabolic process"]
+  
+Interaction Network 13
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g54270", "at3g44680", "at2g34420"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0010119 regulation of stomatal movement", "0009737 response to abscisic acid", "0009635 response to herbicide", "0009644 response to high light intensity", "0009416 response to light stimulus", "0006412 translation", "0010187 negative regulation of seed germination", "1900055 regulation of leaf senescence", "0050832 defense response to fungus", "0032875 regulation of DNA endoreduplication"]
+  
+Interaction Network 14
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g54270", "at4g34840", "at2g34420"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", "ath00270 Cysteine and methionine metabolism"]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0010119 regulation of stomatal movement", "0009737 response to abscisic acid", "0009635 response to herbicide", "0009644 response to high light intensity", "0009416 response to light stimulus", "0006412 translation", "0009116 nucleoside metabolic process", "0010087 phloem or xylem histogenesis", "0000003 reproduction", "0009627 systemic acquired resistance", "0032875 regulation of DNA endoreduplication"]
+  
+Interaction Network 15
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g54270", "at4g34840", "at3g27690"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", "ath00270 Cysteine and methionine metabolism"]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0010119 regulation of stomatal movement", "0009737 response to abscisic acid", "0009635 response to herbicide", "0009644 response to high light intensity", "0009416 response to light stimulus", "0006412 translation", "0009116 nucleoside metabolic process", "0010087 phloem or xylem histogenesis", "0000003 reproduction", "0009627 systemic acquired resistance", "0071215 cellular response to abscisic acid stimulus", "1903428 positive regulation of reactive oxygen species biosynthetic process", "0090333 regulation of stomatal closure", "0009409 response to cold", "0009269 response to desiccation", "0010218 response to far red light", "0009645 response to low light intensity stimulus", "0010114 response to red light", "0030104 water homeostasis"]
+  
+Interaction Network 16
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g54270", "at4g34840", "at4g37980"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", "ath00270 Cysteine and methionine metabolism", "ath00940 Phenylpropanoid biosynthesis", "ath01110 Biosynthesis of secondary metabolites"]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0010119 regulation of stomatal movement", "0009737 response to abscisic acid", "0009635 response to herbicide", "0009644 response to high light intensity", "0009416 response to light stimulus", "0006412 translation", "0009116 nucleoside metabolic process", "0010087 phloem or xylem histogenesis", "0000003 reproduction", "0009627 systemic acquired resistance", "0010597 green leaf volatile biosynthetic process", "0009809 lignin biosynthetic process", "0009617 response to bacterium"]
+  
+Interaction Network 17
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g54270", "at5g26780", "at2g45170"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", "ath00260 Glycine, serine and threonine metabolism", "ath00460 Cyanoamino acid metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath00670 One carbon pool by folate", "ath01110 Biosynthesis of secondary metabolites", "ath01200 Carbon metabolism", "ath01230 Biosynthesis of amino acids", "ath01240 Biosynthesis of cofactors", "ath04136 Autophagy - other"]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0010119 regulation of stomatal movement", "0009737 response to abscisic acid", "0009635 response to herbicide", "0009644 response to high light intensity", "0009416 response to light stimulus", "0006412 translation", "0046655 folic acid metabolic process", "0019264 glycine biosynthetic process from serine", "0006544 glycine metabolic process", "0035999 tetrahydrofolate interconversion", "0046653 tetrahydrofolate metabolic process", "0042545 cell wall modification", "0045490 pectin catabolic process", "0006914 autophagy", "0006995 cellular response to nitrogen starvation", "0009267 cellular response to starvation", "0015031 protein transport", "0045471 response to ethanol"]
+  
+Interaction Network 18
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g45170", "at4g33710", "at1g23740"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath04136 Autophagy - other", "ath04016 MAPK signaling pathway - plant", "ath04075 Plant hormone signal transduction", "ath04626 Plant-pathogen interaction", {}]
+  
+  And the the following GO annotations:
+  ["0006914 autophagy", "0006995 cellular response to nitrogen starvation", "0009267 cellular response to starvation", "0015031 protein transport", "0045471 response to ethanol", "0006952 defense response", "0009409 response to cold", "0046856 phosphatidylinositol dephosphorylation"]
+  
+Interaction Network 19
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g45170", "at5g14060", "at2g26740"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath04136 Autophagy - other", "ath00260 Glycine, serine and threonine metabolism", "ath00261 Monobactam biosynthesis", "ath00270 Cysteine and methionine metabolism", "ath00300 Lysine biosynthesis", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath01210 2-Oxocarboxylic acid metabolism", "ath01230 Biosynthesis of amino acids", {}]
+  
+  And the the following GO annotations:
+  ["0006914 autophagy", "0006995 cellular response to nitrogen starvation", "0009267 cellular response to starvation", "0015031 protein transport", "0045471 response to ethanol", "0009090 homoserine biosynthetic process", "0009089 lysine biosynthetic process via diaminopimelate", "0009088 threonine biosynthetic process", "0009733 response to auxin", "0009414 response to water deprivation"]
+  
+Interaction Network 20
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g45170", "at1g07180", "at1g23740"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath04136 Autophagy - other", {}]
+  
+  And the the following GO annotations:
+  ["0006914 autophagy", "0006995 cellular response to nitrogen starvation", "0009267 cellular response to starvation", "0015031 protein transport", "0045471 response to ethanol", "0071482 cellular response to light stimulus", "0009409 response to cold", "0046856 phosphatidylinositol dephosphorylation"]
+  
+Interaction Network 21
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g45170", "at1g25155", "at1g12900"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath04136 Autophagy - other", "ath00400 Phenylalanine, tyrosine and tryptophan biosynthesis", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath01230 Biosynthesis of amino acids", "ath00710 Carbon fixation in photosynthetic organisms", "ath01200 Carbon metabolism"]
+  
+  And the the following GO annotations:
+  ["0006914 autophagy", "0006995 cellular response to nitrogen starvation", "0009267 cellular response to starvation", "0015031 protein transport", "0045471 response to ethanol", "0006541 glutamine metabolic process", "0000162 tryptophan biosynthetic process", "0006006 glucose metabolic process", "0008643 carbohydrate transport"]
+  
+Interaction Network 22
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g45170", "at2g33210", "at4g21210"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath04136 Autophagy - other", "ath03018 RNA degradation", {}]
+  
+  And the the following GO annotations:
+  ["0006914 autophagy", "0006995 cellular response to nitrogen starvation", "0009267 cellular response to starvation", "0015031 protein transport", "0045471 response to ethanol", "0006457 protein folding", "0042026 protein refolding"]
+  
+Interaction Network 23
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g45170", "at4g37930", "at5g04140"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath04136 Autophagy - other", "ath00260 Glycine, serine and threonine metabolism", "ath00460 Cyanoamino acid metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath00670 One carbon pool by folate", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath01200 Carbon metabolism", "ath01230 Biosynthesis of amino acids", "ath01240 Biosynthesis of cofactors", "ath00910 Nitrogen metabolism"]
+  
+  And the the following GO annotations:
+  ["0006914 autophagy", "0006995 cellular response to nitrogen starvation", "0009267 cellular response to starvation", "0015031 protein transport", "0045471 response to ethanol", "0007623 circadian rhythm", "0046655 folic acid metabolic process", "0019264 glycine biosynthetic process from serine", "0006544 glycine metabolic process", "0009853 photorespiration", "0046686 response to cadmium ion", "0009409 response to cold", "0009416 response to light stimulus", "0035999 tetrahydrofolate interconversion", "0046653 tetrahydrofolate metabolic process", "0032259 methylation", "0019676 ammonia assimilation cycle", "0006537 glutamate biosynthetic process", "0080114 positive regulation of glycine hydroxymethyltransferase activity", "0009744 response to sucrose", "0006541 glutamine metabolic process"]
+  
+Interaction Network 24
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g80440", "at4g13530", "at4g39710"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["2000762 regulation of phenylpropanoid metabolic process", "0006952 defense response"]
+  
+Interaction Network 25
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g04140", "at4g39330", "at2g26740"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00630 Glyoxylate and dicarboxylate metabolism", "ath00910 Nitrogen metabolism", "ath00940 Phenylpropanoid biosynthesis", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", {}]
+  
+  And the the following GO annotations:
+  ["0019676 ammonia assimilation cycle", "0006537 glutamate biosynthetic process", "0009853 photorespiration", "0080114 positive regulation of glycine hydroxymethyltransferase activity", "0009416 response to light stimulus", "0009744 response to sucrose", "0006541 glutamine metabolic process", "0009809 lignin biosynthetic process", "0009733 response to auxin", "0009414 response to water deprivation"]
+  
+Interaction Network 26
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g04140", "at1g01480", "at3g27690"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00630 Glyoxylate and dicarboxylate metabolism", "ath00910 Nitrogen metabolism", "ath00270 Cysteine and methionine metabolism", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath04016 MAPK signaling pathway - plant", "ath00196 Photosynthesis - antenna proteins"]
+  
+  And the the following GO annotations:
+  ["0019676 ammonia assimilation cycle", "0006537 glutamate biosynthetic process", "0009853 photorespiration", "0080114 positive regulation of glycine hydroxymethyltransferase activity", "0009416 response to light stimulus", "0009744 response to sucrose", "0006541 glutamine metabolic process", "0009693 ethylene biosynthetic process", "0009835 fruit ripening", "0009058 biosynthetic process", "0071215 cellular response to abscisic acid stimulus", "1903428 positive regulation of reactive oxygen species biosynthetic process", "0090333 regulation of stomatal closure", "0009409 response to cold", "0009269 response to desiccation", "0010218 response to far red light", "0009644 response to high light intensity", "0009645 response to low light intensity stimulus", "0010114 response to red light", "0030104 water homeostasis"]
+  
+Interaction Network 27
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g04140", "at4g34230", "at4g17090"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00630 Glyoxylate and dicarboxylate metabolism", "ath00910 Nitrogen metabolism", "ath00940 Phenylpropanoid biosynthesis", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath00500 Starch and sucrose metabolism"]
+  
+  And the the following GO annotations:
+  ["0019676 ammonia assimilation cycle", "0006537 glutamate biosynthetic process", "0009853 photorespiration", "0080114 positive regulation of glycine hydroxymethyltransferase activity", "0009416 response to light stimulus", "0009744 response to sucrose", "0006541 glutamine metabolic process", "0009809 lignin biosynthetic process", "0009088 threonine biosynthetic process", "0000024 maltose biosynthetic process", "0009409 response to cold", "0005983 starch catabolic process", "0000272 polysaccharide catabolic process"]
+  
+Interaction Network 28
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g04140", "at2g21730", "at4g17090"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00630 Glyoxylate and dicarboxylate metabolism", "ath00910 Nitrogen metabolism", "ath00940 Phenylpropanoid biosynthesis", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath00500 Starch and sucrose metabolism"]
+  
+  And the the following GO annotations:
+  ["0019676 ammonia assimilation cycle", "0006537 glutamate biosynthetic process", "0009853 photorespiration", "0080114 positive regulation of glycine hydroxymethyltransferase activity", "0009416 response to light stimulus", "0009744 response to sucrose", "0006541 glutamine metabolic process", "0009809 lignin biosynthetic process", "0000024 maltose biosynthetic process", "0009409 response to cold", "0005983 starch catabolic process", "0000272 polysaccharide catabolic process"]
+  
+Interaction Network 29
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g15820", "at3g26090", "at5g01530"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0010196 nonphotochemical quenching", "0015979 photosynthesis", "0009416 response to light stimulus", "0009867 jasmonic acid mediated signaling pathway", "0009968 negative regulation of signal transduction", "0043547 positive regulation of GTPase activity", "0042127 regulation of cell population proliferation", "0009737 response to abscisic acid", "0009749 response to glucose", "0009414 response to water deprivation", "0010182 sugar mediated signaling pathway"]
+  
+Interaction Network 30
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g15820", "at3g26090", "at2g34420"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0010196 nonphotochemical quenching", "0015979 photosynthesis", "0009416 response to light stimulus", "0009867 jasmonic acid mediated signaling pathway", "0009968 negative regulation of signal transduction", "0043547 positive regulation of GTPase activity", "0042127 regulation of cell population proliferation", "0009737 response to abscisic acid", "0009749 response to glucose", "0009414 response to water deprivation", "0010182 sugar mediated signaling pathway", "0032875 regulation of DNA endoreduplication"]
+  
+Interaction Network 31
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g15820", "at3g26090", "at1g29920"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0010196 nonphotochemical quenching", "0015979 photosynthesis", "0009416 response to light stimulus", "0009867 jasmonic acid mediated signaling pathway", "0009968 negative regulation of signal transduction", "0043547 positive regulation of GTPase activity", "0042127 regulation of cell population proliferation", "0009737 response to abscisic acid", "0009749 response to glucose", "0009414 response to water deprivation", "0010182 sugar mediated signaling pathway", "0009750 response to fructose"]
+  
+Interaction Network 32
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g03130", "at3g48150", "at3g16250"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00195 Photosynthesis", "ath01100 Metabolic pathways", "ath04120 Ubiquitin mediated proteolysis", {}]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0051301 cell division", "0016567 protein ubiquitination", "0031347 regulation of defense response", "0007049 cell cycle", "0009773 photosynthetic electron transport in photosystem I"]
+  
+Interaction Network 33
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g03130", "at3g48150", "at2g17880"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00195 Photosynthesis", "ath01100 Metabolic pathways", "ath04120 Ubiquitin mediated proteolysis", {}]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0051301 cell division", "0016567 protein ubiquitination", "0031347 regulation of defense response", "0007049 cell cycle"]
+  
+Interaction Network 34
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g03130", "at3g48150", "at4g02770"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00195 Photosynthesis", "ath01100 Metabolic pathways", "ath04120 Ubiquitin mediated proteolysis"]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0051301 cell division", "0016567 protein ubiquitination", "0031347 regulation of defense response", "0007049 cell cycle", "0140547 acquisition of seed longevity", "0035556 intracellular signal transduction"]
+  
+Interaction Network 35
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g03130", "at4g29930", "at4g02770"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00195 Photosynthesis", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0048268 clathrin coat assembly", "0006897 endocytosis", "0140547 acquisition of seed longevity", "0035556 intracellular signal transduction"]
+  
+Interaction Network 36
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g03130", "at5g61010", "at4g02770"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00195 Photosynthesis", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0052542 defense response by callose deposition", "0006887 exocytosis", "0006955 immune response", "1903553 positive regulation of extracellular exosome assembly", "0015031 protein transport", "1903533 regulation of protein targeting", "0140547 acquisition of seed longevity", "0035556 intracellular signal transduction"]
+  
+Interaction Network 37
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g03130", "at3g02150", "at3g16250"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00195 Photosynthesis", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0048366 leaf development", "0010150 leaf senescence", "0031347 regulation of defense response", "2000032 regulation of secondary shoot formation", "0006021 inositol biosynthetic process", "0046855 inositol phosphate dephosphorylation", "0046854 phosphatidylinositol phosphate biosynthetic process", "0009773 photosynthetic electron transport in photosystem I"]
+  
+Interaction Network 38
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g03130", "at4g19700", "at4g02770"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00195 Photosynthesis", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0042742 defense response to bacterium", "0050832 defense response to fungus", "0043069 negative regulation of programmed cell death", "0043067 regulation of programmed cell death", "0009739 response to gibberellin", "0140547 acquisition of seed longevity", "0035556 intracellular signal transduction"]
+  
+Interaction Network 39
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g03130", "at5g32440", "at4g02770"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00195 Photosynthesis", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0140547 acquisition of seed longevity", "0035556 intracellular signal transduction"]
+  
+Interaction Network 40
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g03130", "at2g23290", "at4g02770"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00195 Photosynthesis", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0140547 acquisition of seed longevity", "0035556 intracellular signal transduction"]
+  
+Interaction Network 41
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g03130", "at3g47620", "at1g29910"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00195 Photosynthesis", "ath01100 Metabolic pathways", {}, "ath00196 Photosynthesis - antenna proteins"]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0010229 inflorescence development", "0031347 regulation of defense response", "0010029 regulation of seed germination", "0009737 response to abscisic acid", "0009735 response to cytokinin", "0009739 response to gibberellin", "0015031 protein transport", "0009750 response to fructose", "0009416 response to light stimulus", "0009733 response to auxin"]
+  
+Interaction Network 42
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g03130", "at3g47620", "at2g34420"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00195 Photosynthesis", "ath01100 Metabolic pathways", {}, "ath00196 Photosynthesis - antenna proteins"]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0010229 inflorescence development", "0031347 regulation of defense response", "0010029 regulation of seed germination", "0009737 response to abscisic acid", "0009735 response to cytokinin", "0009739 response to gibberellin", "0015031 protein transport", "0032875 regulation of DNA endoreduplication", "0009416 response to light stimulus"]
+  
+Interaction Network 43
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g03130", "at3g47620", "at3g16250"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00195 Photosynthesis", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0010229 inflorescence development", "0031347 regulation of defense response", "0010029 regulation of seed germination", "0009737 response to abscisic acid", "0009735 response to cytokinin", "0009739 response to gibberellin", "0015031 protein transport", "0009773 photosynthetic electron transport in photosystem I"]
+  
+Interaction Network 44
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g03130", "at3g47620", "at1g29920"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00195 Photosynthesis", "ath01100 Metabolic pathways", {}, "ath00196 Photosynthesis - antenna proteins"]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0010229 inflorescence development", "0031347 regulation of defense response", "0010029 regulation of seed germination", "0009737 response to abscisic acid", "0009735 response to cytokinin", "0009739 response to gibberellin", "0015031 protein transport", "0009750 response to fructose", "0009416 response to light stimulus"]
+  
+Interaction Network 45
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g03130", "at3g47620", "at4g02770"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00195 Photosynthesis", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0010229 inflorescence development", "0031347 regulation of defense response", "0010029 regulation of seed germination", "0009737 response to abscisic acid", "0009735 response to cytokinin", "0009739 response to gibberellin", "0015031 protein transport", "0140547 acquisition of seed longevity", "0035556 intracellular signal transduction"]
+  
+Interaction Network 46
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g03130", "at5g37670", "at4g02770"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00195 Photosynthesis", "ath01100 Metabolic pathways", "ath04141 Protein processing in endoplasmic reticulum"]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0071456 cellular response to hypoxia", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0042542 response to hydrogen peroxide", "0000302 response to reactive oxygen species", "0009651 response to salt stress", "0140547 acquisition of seed longevity", "0035556 intracellular signal transduction"]
+  
+Interaction Network 47
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g03130", "at3g08530", "at4g02770"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00195 Photosynthesis", "ath01100 Metabolic pathways", "ath04144 Endocytosis"]
+  
+  And the the following GO annotations:
+  ["0015979 photosynthesis", "0006897 endocytosis", "0006886 intracellular protein transport", "0006606 protein import into nucleus", "0140547 acquisition of seed longevity", "0035556 intracellular signal transduction"]
+  
+Interaction Network 48
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g17090", "at3g26810", "at4g37800"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00500 Starch and sucrose metabolism", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", {}]
+  
+  And the the following GO annotations:
+  ["0000024 maltose biosynthetic process", "0009409 response to cold", "0005983 starch catabolic process", "0000272 polysaccharide catabolic process", "0006952 defense response", "0010152 pollen maturation", "0016567 protein ubiquitination", "0048443 stamen development", "0010089 xylem development", "0042546 cell wall biogenesis", "0071555 cell wall organization", "0010411 xyloglucan metabolic process"]
+  
+Interaction Network 49
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g17090", "at5g63860", "at2g26740"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00500 Starch and sucrose metabolism", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", {}]
+  
+  And the the following GO annotations:
+  ["0000024 maltose biosynthetic process", "0009409 response to cold", "0005983 starch catabolic process", "0000272 polysaccharide catabolic process", "0009649 entrainment of circadian clock", "0009411 response to UV", "0009733 response to auxin", "0009414 response to water deprivation"]
+  
+Interaction Network 50
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g17090", "at5g39320", "at5g65010"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00500 Starch and sucrose metabolism", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath00040 Pentose and glucuronate interconversions", "ath00053 Ascorbate and aldarate metabolism", "ath00520 Amino sugar and nucleotide sugar metabolism", "ath01240 Biosynthesis of cofactors", "ath01250 Biosynthesis of nucleotide sugars", "ath00250 Alanine, aspartate and glutamate metabolism", "ath01230 Biosynthesis of amino acids"]
+  
+  And the the following GO annotations:
+  ["0000024 maltose biosynthetic process", "0009409 response to cold", "0005983 starch catabolic process", "0000272 polysaccharide catabolic process", "0006024 glycosaminoglycan biosynthetic process", "0097164 ammonium ion metabolic process", "0006529 asparagine biosynthetic process", "0006541 glutamine metabolic process", "0042538 hyperosmotic salinity response"]
+  
+Interaction Network 51
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g17090", "at5g11920", "at1g12900"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00500 Starch and sucrose metabolism", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath00052 Galactose metabolism", "ath00710 Carbon fixation in photosynthetic organisms", "ath01200 Carbon metabolism"]
+  
+  And the the following GO annotations:
+  ["0000024 maltose biosynthetic process", "0009409 response to cold", "0005983 starch catabolic process", "0000272 polysaccharide catabolic process", "0005975 carbohydrate metabolic process", "0006006 glucose metabolic process", "0008643 carbohydrate transport"]
+  
+Interaction Network 52
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g17090", "at2g24270", "at2g26740"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00500 Starch and sucrose metabolism", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath00010 Glycolysis / Gluconeogenesis", "ath00030 Pentose phosphate pathway", "ath01200 Carbon metabolism", {}]
+  
+  And the the following GO annotations:
+  ["0000024 maltose biosynthetic process", "0009409 response to cold", "0005983 starch catabolic process", "0000272 polysaccharide catabolic process", "0009733 response to auxin", "0009414 response to water deprivation"]
+  
+Interaction Network 53
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g17090", "at2g32290", "at3g47340"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00500 Starch and sucrose metabolism", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath00250 Alanine, aspartate and glutamate metabolism", "ath01230 Biosynthesis of amino acids"]
+  
+  And the the following GO annotations:
+  ["0000024 maltose biosynthetic process", "0009409 response to cold", "0005983 starch catabolic process", "0000272 polysaccharide catabolic process", "0006529 asparagine biosynthetic process", "0009063 cellular amino acid catabolic process", "0043617 cellular response to sucrose starvation", "0006541 glutamine metabolic process", "0009646 response to absence of light", "0009750 response to fructose", "0009749 response to glucose", "0009744 response to sucrose", "0006096 glycolytic process"]
+  
+Interaction Network 54
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g17090", "at1g12820", "at2g26740"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00500 Starch and sucrose metabolism", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", {}]
+  
+  And the the following GO annotations:
+  ["0000024 maltose biosynthetic process", "0009409 response to cold", "0005983 starch catabolic process", "0000272 polysaccharide catabolic process", "0071249 cellular response to nitrate", "0006952 defense response", "0048527 lateral root development", "0010152 pollen maturation", "0080022 primary root development", "0016567 protein ubiquitination", "0048443 stamen development", "0009733 response to auxin", "0009414 response to water deprivation"]
+  
+Interaction Network 55
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g17090", "at3g47010", "at5g48300"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00500 Starch and sucrose metabolism", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath00460 Cyanoamino acid metabolism", "ath00940 Phenylpropanoid biosynthesis", "ath00520 Amino sugar and nucleotide sugar metabolism", "ath01250 Biosynthesis of nucleotide sugars"]
+  
+  And the the following GO annotations:
+  ["0000024 maltose biosynthetic process", "0009409 response to cold", "0005983 starch catabolic process", "0000272 polysaccharide catabolic process", "0005975 carbohydrate metabolic process", "0009251 glucan catabolic process", "0005978 glycogen biosynthetic process", "0019252 starch biosynthetic process", "0006457 protein folding"]
+  
+Interaction Network 56
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g23740", "at3g06470", "at2g26080"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath00260 Glycine, serine and threonine metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath01200 Carbon metabolism"]
+  
+  And the the following GO annotations:
+  ["0009409 response to cold", "0046856 phosphatidylinositol dephosphorylation", "0030148 sphingolipid biosynthetic process", "0006633 fatty acid biosynthetic process", "0006629 lipid metabolic process", "0019464 glycine decarboxylation via glycine cleavage system", "0006546 glycine catabolic process"]
+  
+Interaction Network 57
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g23740", "at5g52640", "at4g12830"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath04141 Protein processing in endoplasmic reticulum", "ath04626 Plant-pathogen interaction"]
+  
+  And the the following GO annotations:
+  ["0009409 response to cold", "0046856 phosphatidylinositol dephosphorylation", "0034605 cellular response to heat", "0042742 defense response to bacterium", "0045087 innate immune response", "0006457 protein folding", "0050821 protein stabilization"]
+  
+Interaction Network 58
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g23740", "at3g08910", "at3g45780"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0009409 response to cold", "0046856 phosphatidylinositol dephosphorylation", "0006457 protein folding", "0009904 chloroplast accumulation movement", "0009903 chloroplast avoidance movement", "0007623 circadian rhythm", "0010362 negative regulation of anion channel activity by blue light", "0009638 phototropism", "0046777 protein autophosphorylation", "0006468 protein phosphorylation", "0010155 regulation of proton transport", "0010119 regulation of stomatal movement", "0009637 response to blue light", "0050896 response to stimulus"]
+  
+Interaction Network 59
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g23740", "at1g02730", "at2g26080"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath00520 Amino sugar and nucleotide sugar metabolism", "ath01100 Metabolic pathways", "ath00260 Glycine, serine and threonine metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath01110 Biosynthesis of secondary metabolites", "ath01200 Carbon metabolism"]
+  
+  And the the following GO annotations:
+  ["0009409 response to cold", "0046856 phosphatidylinositol dephosphorylation", "0000919 cell plate assembly", "0042546 cell wall biogenesis", "0071555 cell wall organization", "0030244 cellulose biosynthetic process", "0006970 response to osmotic stress", "0009651 response to salt stress", "0009414 response to water deprivation", "0048367 shoot system development", "0006782 protoporphyrinogen IX biosynthetic process", "0019464 glycine decarboxylation via glycine cleavage system", "0006546 glycine catabolic process"]
+  
+Interaction Network 60
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g46340", "at1g53090", "at5g15850"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath04712 Circadian rhythm - plant", {}]
+  
+  And the the following GO annotations:
+  ["0009658 chloroplast organization", "0010100 negative regulation of photomorphogenesis", "0009640 photomorphogenesis", "0009637 response to blue light", "0010218 response to far red light", "0010114 response to red light", "0009909 regulation of flower development"]
+  
+Interaction Network 61
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g21330", "at4g20360", "at2g26740"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00010 Glycolysis / Gluconeogenesis", "ath00030 Pentose phosphate pathway", "ath00051 Fructose and mannose metabolism", "ath00710 Carbon fixation in photosynthetic organisms", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath01200 Carbon metabolism", "ath01230 Biosynthesis of amino acids", "ath04626 Plant-pathogen interaction", {}]
+  
+  And the the following GO annotations:
+  ["0006094 gluconeogenesis", "0006096 glycolytic process", "0046686 response to cadmium ion", "0071555 cell wall organization", "0030244 cellulose biosynthetic process", "0009658 chloroplast organization", "0048366 leaf development", "0070125 mitochondrial translational elongation", "0006414 translational elongation", "0009733 response to auxin", "0009414 response to water deprivation"]
+  
+Interaction Network 62
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g21330", "at4g32520", "at4g37800"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00010 Glycolysis / Gluconeogenesis", "ath00030 Pentose phosphate pathway", "ath00051 Fructose and mannose metabolism", "ath00710 Carbon fixation in photosynthetic organisms", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath01200 Carbon metabolism", "ath01230 Biosynthesis of amino acids", "ath00260 Glycine, serine and threonine metabolism", "ath00460 Cyanoamino acid metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath00670 One carbon pool by folate", "ath01240 Biosynthesis of cofactors", {}]
+  
+  And the the following GO annotations:
+  ["0006094 gluconeogenesis", "0006096 glycolytic process", "0046686 response to cadmium ion", "0071555 cell wall organization", "0030244 cellulose biosynthetic process", "0046655 folic acid metabolic process", "0019264 glycine biosynthetic process from serine", "0035999 tetrahydrofolate interconversion", "0046653 tetrahydrofolate metabolic process", "0019953 sexual reproduction", "0042546 cell wall biogenesis", "0010411 xyloglucan metabolic process"]
+  
+Interaction Network 63
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at1g60950", "at1g20020"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath00195 Photosynthesis", "ath01100 Metabolic pathways"]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0009643 photosynthetic acclimation", "0009767 photosynthetic electron transport chain", "0015977 carbon fixation", "0009853 photorespiration", "0015979 photosynthesis", "0042742 defense response to bacterium", "0050832 defense response to fungus", "0006260 DNA replication"]
+  
+Interaction Network 64
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at5g66190", "at1g20020"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath00195 Photosynthesis", "ath01100 Metabolic pathways"]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0042742 defense response to bacterium", "0009767 photosynthetic electron transport chain", "0009959 negative gravitropism", "0009639 response to red or far red light", "0050832 defense response to fungus", "0015979 photosynthesis", "0006260 DNA replication"]
+  
+Interaction Network 65
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at1g29060", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath04130 SNARE interactions in vesicular transport"]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "1901002 positive regulation of response to salt stress", "0015031 protein transport", "0047484 regulation of response to osmotic stress", "0043182 vacuolar sequestering of sodium ion", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 66
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at1g29060", "at5g43750"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath04130 SNARE interactions in vesicular transport"]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "1901002 positive regulation of response to salt stress", "0015031 protein transport", "0047484 regulation of response to osmotic stress", "0043182 vacuolar sequestering of sodium ion", "0006979 response to oxidative stress"]
+  
+Interaction Network 67
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at1g29060", "at1g69870"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath04130 SNARE interactions in vesicular transport"]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "1901002 positive regulation of response to salt stress", "0015031 protein transport", "0047484 regulation of response to osmotic stress", "0043182 vacuolar sequestering of sodium ion", "0042128 nitrate assimilation", "0015706 nitrate transport"]
+  
+Interaction Network 68
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at1g21240", "at5g43750"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0007166 cell surface receptor signaling pathway", "0006468 protein phosphorylation", "0006979 response to oxidative stress"]
+  
+Interaction Network 69
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at1g21240", "at3g61260"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0007166 cell surface receptor signaling pathway", "0006468 protein phosphorylation", "0051607 defense response to virus", "0051665 membrane raft localization", "0009751 response to salicylic acid"]
+  
+Interaction Network 70
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at5g42980", "at3g50820"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath00195 Photosynthesis", "ath01100 Metabolic pathways"]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0050832 defense response to fungus", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0010205 photoinhibition", "0010207 photosystem II assembly", "0042549 photosystem II stabilization", "0035304 regulation of protein dephosphorylation"]
+  
+Interaction Network 71
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at5g42980", "at3g01500"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath00910 Nitrogen metabolism", "ath01100 Metabolic pathways"]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0050832 defense response to fungus", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0015976 carbon utilization", "0042742 defense response to bacterium", "2000122 negative regulation of stomatal complex development", "0015979 photosynthesis", "0010119 regulation of stomatal movement", "0010037 response to carbon dioxide", "0009409 response to cold"]
+  
+Interaction Network 72
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at5g42980", "at3g55800"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath00710 Carbon fixation in photosynthetic organisms", "ath01100 Metabolic pathways", "ath01200 Carbon metabolism"]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0050832 defense response to fungus", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0016051 carbohydrate biosynthetic process", "0042742 defense response to bacterium", "0006000 fructose metabolic process", "0006094 gluconeogenesis", "0019252 starch biosynthetic process", "0005986 sucrose biosynthetic process", "0005975 carbohydrate metabolic process"]
+  
+Interaction Network 73
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at5g42980", "at5g14740"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath00910 Nitrogen metabolism", "ath01100 Metabolic pathways"]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0050832 defense response to fungus", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0015976 carbon utilization", "0042742 defense response to bacterium", "0006865 amino acid transport"]
+  
+Interaction Network 74
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at5g42980", "at3g62410"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0050832 defense response to fungus", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0071454 cellular response to anoxia", "0070417 cellular response to cold", "0034605 cellular response to heat", "0009416 response to light stimulus", "0009744 response to sucrose"]
+  
+Interaction Network 75
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at5g42980", "at2g39730"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0050832 defense response to fungus", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0042742 defense response to bacterium", "0010150 leaf senescence", "0009409 response to cold", "0009753 response to jasmonic acid", "0009416 response to light stimulus"]
+  
+Interaction Network 76
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at5g42980", "at5g35630"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath00220 Arginine biosynthesis", "ath00250 Alanine, aspartate and glutamate metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath00910 Nitrogen metabolism", "ath01100 Metabolic pathways", "ath01230 Biosynthesis of amino acids"]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0050832 defense response to fungus", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0007568 aging", "0019676 ammonia assimilation cycle", "0006542 glutamine biosynthetic process", "0046686 response to cadmium ion", "0006807 nitrogen compound metabolic process"]
+  
+Interaction Network 77
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at5g37050", "at5g43750"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0006979 response to oxidative stress"]
+  
+Interaction Network 78
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at5g37050", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 79
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at5g37050", "at1g69870"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0042128 nitrate assimilation", "0015706 nitrate transport"]
+  
+Interaction Network 80
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at5g37050", "at3g61260"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0051607 defense response to virus", "0051665 membrane raft localization", "0009751 response to salicylic acid"]
+  
+Interaction Network 81
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at2g22425", "at1g69870"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath03060 Protein export"]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0045047 protein targeting to ER", "0006465 signal peptide processing", "0048658 anther wall tapetum development", "0042128 nitrate assimilation", "0015706 nitrate transport"]
+  
+Interaction Network 82
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at2g22425", "at5g43750"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath03060 Protein export"]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0045047 protein targeting to ER", "0006465 signal peptide processing", "0048658 anther wall tapetum development", "0006979 response to oxidative stress"]
+  
+Interaction Network 83
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at3g12180", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 84
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at3g12180", "at1g69870"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0042128 nitrate assimilation", "0015706 nitrate transport"]
+  
+Interaction Network 85
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at3g12180", "at3g61260"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0051607 defense response to virus", "0051665 membrane raft localization", "0009751 response to salicylic acid"]
+  
+Interaction Network 86
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at3g12180", "at5g43750"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0006979 response to oxidative stress"]
+  
+Interaction Network 87
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at1g17280", "at1g69870"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath04120 Ubiquitin mediated proteolysis", "ath04141 Protein processing in endoplasmic reticulum"]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0042631 cellular response to water deprivation", "1902457 negative regulation of stomatal opening", "0000209 protein polyubiquitination", "0042128 nitrate assimilation", "0015706 nitrate transport"]
+  
+Interaction Network 88
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at1g17280", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath04120 Ubiquitin mediated proteolysis", "ath04141 Protein processing in endoplasmic reticulum"]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0042631 cellular response to water deprivation", "1902457 negative regulation of stomatal opening", "0000209 protein polyubiquitination", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 89
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at1g17280", "at5g43750"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath04120 Ubiquitin mediated proteolysis", "ath04141 Protein processing in endoplasmic reticulum"]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0042631 cellular response to water deprivation", "1902457 negative regulation of stomatal opening", "0000209 protein polyubiquitination", "0006979 response to oxidative stress"]
+  
+Interaction Network 90
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at5g59650", "at5g43750"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0006979 response to oxidative stress"]
+  
+Interaction Network 91
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at5g59650", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 92
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at4g37680", "at1g69870"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0009725 response to hormone", "0009744 response to sucrose", "0042128 nitrate assimilation", "0015706 nitrate transport"]
+  
+Interaction Network 93
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at4g20790", "at3g28220"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0010158 abaxial cell fate specification"]
+  
+Interaction Network 94
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at4g20790", "at5g43750"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0010158 abaxial cell fate specification", "0006979 response to oxidative stress"]
+  
+Interaction Network 95
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g22890", "at4g20790", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0010158 abaxial cell fate specification", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 96
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g37130", "at5g65430", "at2g18700"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00910 Nitrogen metabolism", "ath01100 Metabolic pathways", {}, "ath00500 Starch and sucrose metabolism", "ath01110 Biosynthesis of secondary metabolites"]
+  
+  And the the following GO annotations:
+  ["0042128 nitrate assimilation", "0006809 nitric oxide biosynthetic process", "0009635 response to herbicide", "0009416 response to light stimulus", "0009610 response to symbiotic fungus", "0019222 regulation of metabolic process", "0050826 response to freezing", "0009742 brassinosteroid mediated signaling pathway", "0009409 response to cold", "0016311 dephosphorylation", "0005992 trehalose biosynthetic process"]
+  
+Interaction Network 97
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g37130", "at3g20190", "at3g28220"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00910 Nitrogen metabolism", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0042128 nitrate assimilation", "0006809 nitric oxide biosynthetic process", "0009635 response to herbicide", "0009416 response to light stimulus", "0009610 response to symbiotic fungus", "0080092 regulation of pollen tube growth"]
+  
+Interaction Network 98
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g65010", "at4g26840", "at3g47340"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00250 Alanine, aspartate and glutamate metabolism", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath01230 Biosynthesis of amino acids", {}]
+  
+  And the the following GO annotations:
+  ["0097164 ammonium ion metabolic process", "0006529 asparagine biosynthetic process", "0006541 glutamine metabolic process", "0042538 hyperosmotic salinity response", "0010286 heat acclimation", "0016925 protein sumoylation", "0009408 response to heat", "0009063 cellular amino acid catabolic process", "0043617 cellular response to sucrose starvation", "0009646 response to absence of light", "0009750 response to fructose", "0009749 response to glucose", "0009744 response to sucrose", "0006096 glycolytic process"]
+  
+Interaction Network 99
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g01500", "at5g42980", "at3g50820"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00910 Nitrogen metabolism", "ath01100 Metabolic pathways", {}, "ath00195 Photosynthesis"]
+  
+  And the the following GO annotations:
+  ["0015976 carbon utilization", "0042742 defense response to bacterium", "0050832 defense response to fungus", "2000122 negative regulation of stomatal complex development", "0015979 photosynthesis", "0010119 regulation of stomatal movement", "0010037 response to carbon dioxide", "0009409 response to cold", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0010205 photoinhibition", "0010207 photosystem II assembly", "0042549 photosystem II stabilization", "0035304 regulation of protein dephosphorylation"]
+  
+Interaction Network 100
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g01500", "at5g42980", "at3g55800"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00910 Nitrogen metabolism", "ath01100 Metabolic pathways", {}, "ath00710 Carbon fixation in photosynthetic organisms", "ath01200 Carbon metabolism"]
+  
+  And the the following GO annotations:
+  ["0015976 carbon utilization", "0042742 defense response to bacterium", "0050832 defense response to fungus", "2000122 negative regulation of stomatal complex development", "0015979 photosynthesis", "0010119 regulation of stomatal movement", "0010037 response to carbon dioxide", "0009409 response to cold", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0016051 carbohydrate biosynthetic process", "0006000 fructose metabolic process", "0006094 gluconeogenesis", "0019252 starch biosynthetic process", "0005986 sucrose biosynthetic process", "0005975 carbohydrate metabolic process"]
+  
+Interaction Network 101
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g01500", "at5g42980", "at5g14740"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00910 Nitrogen metabolism", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0015976 carbon utilization", "0042742 defense response to bacterium", "0050832 defense response to fungus", "2000122 negative regulation of stomatal complex development", "0015979 photosynthesis", "0010119 regulation of stomatal movement", "0010037 response to carbon dioxide", "0009409 response to cold", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0006865 amino acid transport"]
+  
+Interaction Network 102
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g01500", "at5g42980", "at3g62410"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00910 Nitrogen metabolism", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0015976 carbon utilization", "0042742 defense response to bacterium", "0050832 defense response to fungus", "2000122 negative regulation of stomatal complex development", "0015979 photosynthesis", "0010119 regulation of stomatal movement", "0010037 response to carbon dioxide", "0009409 response to cold", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0071454 cellular response to anoxia", "0070417 cellular response to cold", "0034605 cellular response to heat", "0009416 response to light stimulus", "0009744 response to sucrose"]
+  
+Interaction Network 103
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g01500", "at5g42980", "at2g39730"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00910 Nitrogen metabolism", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0015976 carbon utilization", "0042742 defense response to bacterium", "0050832 defense response to fungus", "2000122 negative regulation of stomatal complex development", "0015979 photosynthesis", "0010119 regulation of stomatal movement", "0010037 response to carbon dioxide", "0009409 response to cold", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0010150 leaf senescence", "0009753 response to jasmonic acid", "0009416 response to light stimulus"]
+  
+Interaction Network 104
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g01500", "at5g42980", "at5g35630"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00910 Nitrogen metabolism", "ath01100 Metabolic pathways", {}, "ath00220 Arginine biosynthesis", "ath00250 Alanine, aspartate and glutamate metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath01230 Biosynthesis of amino acids"]
+  
+  And the the following GO annotations:
+  ["0015976 carbon utilization", "0042742 defense response to bacterium", "0050832 defense response to fungus", "2000122 negative regulation of stomatal complex development", "0015979 photosynthesis", "0010119 regulation of stomatal movement", "0010037 response to carbon dioxide", "0009409 response to cold", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0007568 aging", "0019676 ammonia assimilation cycle", "0006542 glutamine biosynthetic process", "0046686 response to cadmium ion", "0006807 nitrogen compound metabolic process"]
+  
+Interaction Network 105
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g01500", "at2g28960", "at3g28220"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00910 Nitrogen metabolism", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0015976 carbon utilization", "0042742 defense response to bacterium", "0050832 defense response to fungus", "2000122 negative regulation of stomatal complex development", "0015979 photosynthesis", "0010119 regulation of stomatal movement", "0010037 response to carbon dioxide", "0009409 response to cold", "0007165 signal transduction", "0071485 cellular response to absence of light", "0071244 cellular response to carbon dioxide", "1901528 hydrogen peroxide mediated signaling pathway involved in stomatal movement", "0090333 regulation of stomatal closure", "0009737 response to abscisic acid", "0009416 response to light stimulus", "0048653 anther development", "0006952 defense response", "0007639 homeostasis of number of meristem cells", "0006468 protein phosphorylation", "0030244 cellulose biosynthetic process"]
+  
+Interaction Network 106
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g01500", "at4g16620", "at3g28220"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00910 Nitrogen metabolism", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0015976 carbon utilization", "0042742 defense response to bacterium", "0050832 defense response to fungus", "2000122 negative regulation of stomatal complex development", "0015979 photosynthesis", "0010119 regulation of stomatal movement", "0010037 response to carbon dioxide", "0009409 response to cold", "0071446 cellular response to salicylic acid stimulus", "0031347 regulation of defense response", "2000031 regulation of salicylic acid mediated signaling pathway"]
+  
+Interaction Network 107
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g33010", "at3g62870", "at3g54050"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00260 Glycine, serine and threonine metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath01200 Carbon metabolism", "ath03010 Ribosome", "ath00010 Glycolysis / Gluconeogenesis", "ath00030 Pentose phosphate pathway", "ath00051 Fructose and mannose metabolism", "ath00710 Carbon fixation in photosynthetic organisms"]
+  
+  And the the following GO annotations:
+  ["0006546 glycine catabolic process", "0019464 glycine decarboxylation via glycine cleavage system", "0046686 response to cadmium ion", "0042254 ribosome biogenesis", "0006000 fructose metabolic process", "0006094 gluconeogenesis", "0015979 photosynthesis", "0009773 photosynthetic electron transport in photosystem I", "0009409 response to cold", "0005986 sucrose biosynthetic process", "0005985 sucrose metabolic process", "0005975 carbohydrate metabolic process"]
+  
+Interaction Network 108
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g33010", "at3g62870", "at1g68570"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00260 Glycine, serine and threonine metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath01200 Carbon metabolism", "ath03010 Ribosome", {}]
+  
+  And the the following GO annotations:
+  ["0006546 glycine catabolic process", "0019464 glycine decarboxylation via glycine cleavage system", "0046686 response to cadmium ion", "0042254 ribosome biogenesis", "0010336 gibberellic acid homeostasis", "0042128 nitrate assimilation", "0006857 oligopeptide transport"]
+  
+Interaction Network 109
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g33010", "at3g62870", "at2g26080"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00260 Glycine, serine and threonine metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath01200 Carbon metabolism", "ath03010 Ribosome"]
+  
+  And the the following GO annotations:
+  ["0006546 glycine catabolic process", "0019464 glycine decarboxylation via glycine cleavage system", "0046686 response to cadmium ion", "0042254 ribosome biogenesis"]
+  
+Interaction Network 110
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g17880", "at4g17680", "at4g02770"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath00195 Photosynthesis", "ath01100 Metabolic pathways"]
+  
+  And the the following GO annotations:
+  ["0031347 regulation of defense response", "2000022 regulation of jasmonic acid mediated signaling pathway", "0009611 response to wounding", "0006952 defense response", "0009867 jasmonic acid mediated signaling pathway", "0140547 acquisition of seed longevity", "0015979 photosynthesis", "0035556 intracellular signal transduction"]
+  
+Interaction Network 111
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g17880", "at3g48150", "at3g16250"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath04120 Ubiquitin mediated proteolysis"]
+  
+  And the the following GO annotations:
+  ["0051301 cell division", "0016567 protein ubiquitination", "0031347 regulation of defense response", "0007049 cell cycle", "0009773 photosynthetic electron transport in photosystem I"]
+  
+Interaction Network 112
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g17880", "at3g48150", "at4g02770"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath04120 Ubiquitin mediated proteolysis", "ath00195 Photosynthesis", "ath01100 Metabolic pathways"]
+  
+  And the the following GO annotations:
+  ["0051301 cell division", "0016567 protein ubiquitination", "0031347 regulation of defense response", "0007049 cell cycle", "0140547 acquisition of seed longevity", "0015979 photosynthesis", "0035556 intracellular signal transduction"]
+  
+Interaction Network 113
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g17880", "at3g49580", "at4g02770"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath00195 Photosynthesis", "ath01100 Metabolic pathways"]
+  
+  And the the following GO annotations:
+  ["0098869 cellular oxidant detoxification", "0010438 cellular response to sulfur starvation", "0009651 response to salt stress", "0008654 phospholipid biosynthetic process", "0140547 acquisition of seed longevity", "0015979 photosynthesis", "0035556 intracellular signal transduction"]
+  
+Interaction Network 114
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g49160", "at1g25320", "at3g28220"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00010 Glycolysis / Gluconeogenesis", "ath00620 Pyruvate metabolism", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath01200 Carbon metabolism", "ath01230 Biosynthesis of amino acids", "ath01240 Biosynthesis of cofactors", {}]
+  
+  And the the following GO annotations:
+  ["0006096 glycolytic process", "0051321 meiotic cell cycle", "0007064 mitotic sister chromatid cohesion"]
+  
+Interaction Network 115
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g21210", "at4g02930", "at4g37800"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath04626 Plant-pathogen interaction"]
+  
+  And the the following GO annotations:
+  ["0070125 mitochondrial translational elongation", "0046686 response to cadmium ion", "0006414 translational elongation", "0042545 cell wall modification", "0045490 pectin catabolic process", "0042546 cell wall biogenesis", "0071555 cell wall organization", "0010411 xyloglucan metabolic process"]
+  
+Interaction Network 116
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g21210", "at4g02930", "at2g26740"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath04626 Plant-pathogen interaction"]
+  
+  And the the following GO annotations:
+  ["0070125 mitochondrial translational elongation", "0046686 response to cadmium ion", "0006414 translational elongation", "0042545 cell wall modification", "0045490 pectin catabolic process", "0009733 response to auxin", "0009414 response to water deprivation"]
+  
+Interaction Network 117
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g14740", "at5g42980", "at3g50820"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00910 Nitrogen metabolism", "ath01100 Metabolic pathways", {}, "ath00195 Photosynthesis"]
+  
+  And the the following GO annotations:
+  ["0015976 carbon utilization", "0042742 defense response to bacterium", "0006865 amino acid transport", "0050832 defense response to fungus", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0010205 photoinhibition", "0010207 photosystem II assembly", "0042549 photosystem II stabilization", "0035304 regulation of protein dephosphorylation"]
+  
+Interaction Network 118
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g14740", "at5g42980", "at3g55800"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00910 Nitrogen metabolism", "ath01100 Metabolic pathways", {}, "ath00710 Carbon fixation in photosynthetic organisms", "ath01200 Carbon metabolism"]
+  
+  And the the following GO annotations:
+  ["0015976 carbon utilization", "0042742 defense response to bacterium", "0006865 amino acid transport", "0050832 defense response to fungus", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0016051 carbohydrate biosynthetic process", "0006000 fructose metabolic process", "0006094 gluconeogenesis", "0019252 starch biosynthetic process", "0005986 sucrose biosynthetic process", "0005975 carbohydrate metabolic process"]
+  
+Interaction Network 119
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g14740", "at5g42980", "at3g62410"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00910 Nitrogen metabolism", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0015976 carbon utilization", "0042742 defense response to bacterium", "0006865 amino acid transport", "0050832 defense response to fungus", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0071454 cellular response to anoxia", "0070417 cellular response to cold", "0034605 cellular response to heat", "0009416 response to light stimulus", "0009744 response to sucrose"]
+  
+Interaction Network 120
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g14740", "at5g42980", "at2g39730"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00910 Nitrogen metabolism", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0015976 carbon utilization", "0042742 defense response to bacterium", "0006865 amino acid transport", "0050832 defense response to fungus", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0010150 leaf senescence", "0009409 response to cold", "0009753 response to jasmonic acid", "0009416 response to light stimulus"]
+  
+Interaction Network 121
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g14740", "at5g42980", "at5g35630"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00910 Nitrogen metabolism", "ath01100 Metabolic pathways", {}, "ath00220 Arginine biosynthesis", "ath00250 Alanine, aspartate and glutamate metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath01230 Biosynthesis of amino acids"]
+  
+  And the the following GO annotations:
+  ["0015976 carbon utilization", "0042742 defense response to bacterium", "0006865 amino acid transport", "0050832 defense response to fungus", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0007568 aging", "0019676 ammonia assimilation cycle", "0006542 glutamine biosynthetic process", "0046686 response to cadmium ion", "0006807 nitrogen compound metabolic process"]
+  
+Interaction Network 122
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g14740", "at2g23070", "at2g18700"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00910 Nitrogen metabolism", "ath01100 Metabolic pathways", "ath03008 Ribosome biogenesis in eukaryotes", "ath04712 Circadian rhythm - plant", "ath00500 Starch and sucrose metabolism", "ath01110 Biosynthesis of secondary metabolites"]
+  
+  And the the following GO annotations:
+  ["0015976 carbon utilization", "0042742 defense response to bacterium", "0006865 amino acid transport", "0071215 cellular response to abscisic acid stimulus", "0010187 negative regulation of seed germination", "0051726 regulation of cell cycle", "0040008 regulation of growth", "0016311 dephosphorylation", "0005992 trehalose biosynthetic process"]
+  
+Interaction Network 123
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g14740", "at2g23070", "at2g39730"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00910 Nitrogen metabolism", "ath01100 Metabolic pathways", "ath03008 Ribosome biogenesis in eukaryotes", "ath04712 Circadian rhythm - plant", {}]
+  
+  And the the following GO annotations:
+  ["0015976 carbon utilization", "0042742 defense response to bacterium", "0006865 amino acid transport", "0071215 cellular response to abscisic acid stimulus", "0010187 negative regulation of seed germination", "0051726 regulation of cell cycle", "0040008 regulation of growth", "0010150 leaf senescence", "0009409 response to cold", "0009753 response to jasmonic acid", "0009416 response to light stimulus"]
+  
+Interaction Network 124
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g37980", "at2g16740", "at1g61520"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00940 Phenylpropanoid biosynthesis", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath04120 Ubiquitin mediated proteolysis", "ath04141 Protein processing in endoplasmic reticulum", "ath00196 Photosynthesis - antenna proteins"]
+  
+  And the the following GO annotations:
+  ["0010597 green leaf volatile biosynthetic process", "0009809 lignin biosynthetic process", "0009617 response to bacterium", "0000209 protein polyubiquitination", "0009409 response to cold", "0009644 response to high light intensity", "0009416 response to light stimulus", "0009645 response to low light intensity stimulus"]
+  
+Interaction Network 125
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g37980", "at4g34840", "at2g34420"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00940 Phenylpropanoid biosynthesis", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath00270 Cysteine and methionine metabolism", "ath00196 Photosynthesis - antenna proteins"]
+  
+  And the the following GO annotations:
+  ["0010597 green leaf volatile biosynthetic process", "0009809 lignin biosynthetic process", "0009617 response to bacterium", "0009116 nucleoside metabolic process", "0010087 phloem or xylem histogenesis", "0000003 reproduction", "0009627 systemic acquired resistance", "0032875 regulation of DNA endoreduplication", "0009416 response to light stimulus"]
+  
+Interaction Network 126
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g37980", "at4g34840", "at3g27690"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00940 Phenylpropanoid biosynthesis", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath00270 Cysteine and methionine metabolism", "ath00196 Photosynthesis - antenna proteins"]
+  
+  And the the following GO annotations:
+  ["0010597 green leaf volatile biosynthetic process", "0009809 lignin biosynthetic process", "0009617 response to bacterium", "0009116 nucleoside metabolic process", "0010087 phloem or xylem histogenesis", "0000003 reproduction", "0009627 systemic acquired resistance", "0071215 cellular response to abscisic acid stimulus", "1903428 positive regulation of reactive oxygen species biosynthetic process", "0090333 regulation of stomatal closure", "0009409 response to cold", "0009269 response to desiccation", "0010218 response to far red light", "0009644 response to high light intensity", "0009416 response to light stimulus", "0009645 response to low light intensity stimulus", "0010114 response to red light", "0030104 water homeostasis"]
+  
+Interaction Network 127
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g39730", "at5g42980", "at3g50820"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath00195 Photosynthesis", "ath01100 Metabolic pathways"]
+  
+  And the the following GO annotations:
+  ["0042742 defense response to bacterium", "0010150 leaf senescence", "0009409 response to cold", "0009753 response to jasmonic acid", "0009416 response to light stimulus", "0050832 defense response to fungus", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0010205 photoinhibition", "0010207 photosystem II assembly", "0042549 photosystem II stabilization", "0035304 regulation of protein dephosphorylation"]
+  
+Interaction Network 128
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g39730", "at5g42980", "at3g55800"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath00710 Carbon fixation in photosynthetic organisms", "ath01100 Metabolic pathways", "ath01200 Carbon metabolism"]
+  
+  And the the following GO annotations:
+  ["0042742 defense response to bacterium", "0010150 leaf senescence", "0009409 response to cold", "0009753 response to jasmonic acid", "0009416 response to light stimulus", "0050832 defense response to fungus", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0016051 carbohydrate biosynthetic process", "0006000 fructose metabolic process", "0006094 gluconeogenesis", "0019252 starch biosynthetic process", "0005986 sucrose biosynthetic process", "0005975 carbohydrate metabolic process"]
+  
+Interaction Network 129
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g39730", "at5g42980", "at3g62410"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0042742 defense response to bacterium", "0010150 leaf senescence", "0009409 response to cold", "0009753 response to jasmonic acid", "0009416 response to light stimulus", "0050832 defense response to fungus", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0071454 cellular response to anoxia", "0070417 cellular response to cold", "0034605 cellular response to heat", "0009744 response to sucrose"]
+  
+Interaction Network 130
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g39730", "at5g42980", "at5g35630"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath00220 Arginine biosynthesis", "ath00250 Alanine, aspartate and glutamate metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath00910 Nitrogen metabolism", "ath01100 Metabolic pathways", "ath01230 Biosynthesis of amino acids"]
+  
+  And the the following GO annotations:
+  ["0042742 defense response to bacterium", "0010150 leaf senescence", "0009409 response to cold", "0009753 response to jasmonic acid", "0009416 response to light stimulus", "0050832 defense response to fungus", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0007568 aging", "0019676 ammonia assimilation cycle", "0006542 glutamine biosynthetic process", "0046686 response to cadmium ion", "0006807 nitrogen compound metabolic process"]
+  
+Interaction Network 131
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g39730", "at2g23070", "at2g18700"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath03008 Ribosome biogenesis in eukaryotes", "ath04712 Circadian rhythm - plant", "ath00500 Starch and sucrose metabolism", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites"]
+  
+  And the the following GO annotations:
+  ["0042742 defense response to bacterium", "0010150 leaf senescence", "0009409 response to cold", "0009753 response to jasmonic acid", "0009416 response to light stimulus", "0071215 cellular response to abscisic acid stimulus", "0010187 negative regulation of seed germination", "0051726 regulation of cell cycle", "0040008 regulation of growth", "0016311 dephosphorylation", "0005992 trehalose biosynthetic process"]
+  
+Interaction Network 132
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g20020", "at4g22890", "at4g02770"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00195 Photosynthesis", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0042742 defense response to bacterium", "0050832 defense response to fungus", "0015979 photosynthesis", "0006260 DNA replication", "0009773 photosynthetic electron transport in photosystem I", "0140547 acquisition of seed longevity", "0035556 intracellular signal transduction"]
+  
+Interaction Network 133
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g20020", "at4g11960", "at4g02770"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00195 Photosynthesis", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0042742 defense response to bacterium", "0050832 defense response to fungus", "0015979 photosynthesis", "0006260 DNA replication", "0009773 photosynthetic electron transport in photosystem I", "0140547 acquisition of seed longevity", "0035556 intracellular signal transduction"]
+  
+Interaction Network 134
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g34420", "at3g47620", "at1g29910"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0032875 regulation of DNA endoreduplication", "0009416 response to light stimulus", "0010229 inflorescence development", "0031347 regulation of defense response", "0010029 regulation of seed germination", "0009737 response to abscisic acid", "0009735 response to cytokinin", "0009739 response to gibberellin", "0015031 protein transport", "0009750 response to fructose", "0009733 response to auxin"]
+  
+Interaction Network 135
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g34420", "at3g47620", "at3g16250"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0032875 regulation of DNA endoreduplication", "0009416 response to light stimulus", "0010229 inflorescence development", "0031347 regulation of defense response", "0010029 regulation of seed germination", "0009737 response to abscisic acid", "0009735 response to cytokinin", "0009739 response to gibberellin", "0015031 protein transport", "0009773 photosynthetic electron transport in photosystem I"]
+  
+Interaction Network 136
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g34420", "at3g47620", "at1g29920"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0032875 regulation of DNA endoreduplication", "0009416 response to light stimulus", "0010229 inflorescence development", "0031347 regulation of defense response", "0010029 regulation of seed germination", "0009737 response to abscisic acid", "0009735 response to cytokinin", "0009739 response to gibberellin", "0015031 protein transport", "0009750 response to fructose"]
+  
+Interaction Network 137
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g34420", "at3g47620", "at4g02770"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", {}, "ath00195 Photosynthesis"]
+  
+  And the the following GO annotations:
+  ["0032875 regulation of DNA endoreduplication", "0009416 response to light stimulus", "0010229 inflorescence development", "0031347 regulation of defense response", "0010029 regulation of seed germination", "0009737 response to abscisic acid", "0009735 response to cytokinin", "0009739 response to gibberellin", "0015031 protein transport", "0140547 acquisition of seed longevity", "0015979 photosynthesis", "0035556 intracellular signal transduction"]
+  
+Interaction Network 138
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g34420", "at3g26090", "at5g01530"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0032875 regulation of DNA endoreduplication", "0009416 response to light stimulus", "0009867 jasmonic acid mediated signaling pathway", "0009968 negative regulation of signal transduction", "0043547 positive regulation of GTPase activity", "0042127 regulation of cell population proliferation", "0009737 response to abscisic acid", "0009749 response to glucose", "0009414 response to water deprivation", "0010182 sugar mediated signaling pathway"]
+  
+Interaction Network 139
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g34420", "at3g26090", "at1g29920"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0032875 regulation of DNA endoreduplication", "0009416 response to light stimulus", "0009867 jasmonic acid mediated signaling pathway", "0009968 negative regulation of signal transduction", "0043547 positive regulation of GTPase activity", "0042127 regulation of cell population proliferation", "0009737 response to abscisic acid", "0009749 response to glucose", "0009414 response to water deprivation", "0010182 sugar mediated signaling pathway", "0009750 response to fructose"]
+  
+Interaction Network 140
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g34420", "at3g57870", "at3g27690"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", "ath03013 Nucleocytoplasmic transport", "ath04120 Ubiquitin mediated proteolysis"]
+  
+  And the the following GO annotations:
+  ["0032875 regulation of DNA endoreduplication", "0009416 response to light stimulus", "0009793 embryo development ending in seed dormancy", "0016925 protein sumoylation", "0009737 response to abscisic acid", "0071215 cellular response to abscisic acid stimulus", "1903428 positive regulation of reactive oxygen species biosynthetic process", "0090333 regulation of stomatal closure", "0009409 response to cold", "0009269 response to desiccation", "0010218 response to far red light", "0009644 response to high light intensity", "0009645 response to low light intensity stimulus", "0010114 response to red light", "0030104 water homeostasis"]
+  
+Interaction Network 141
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g34420", "at4g26220", "at3g27690"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", "ath00940 Phenylpropanoid biosynthesis", "ath00941 Flavonoid biosynthesis", "ath00945 Stilbenoid, diarylheptanoid and gingerol biosynthesis", "ath01110 Biosynthesis of secondary metabolites"]
+  
+  And the the following GO annotations:
+  ["0032875 regulation of DNA endoreduplication", "0009416 response to light stimulus", "0009809 lignin biosynthetic process", "0032259 methylation", "0005992 trehalose biosynthetic process", "0015031 protein transport", "0071215 cellular response to abscisic acid stimulus", "1903428 positive regulation of reactive oxygen species biosynthetic process", "0090333 regulation of stomatal closure", "0009409 response to cold", "0009269 response to desiccation", "0010218 response to far red light", "0009644 response to high light intensity", "0009645 response to low light intensity stimulus", "0010114 response to red light", "0030104 water homeostasis"]
+  
+Interaction Network 142
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g34420", "at3g48040", "at3g61260"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", "ath04145 Phagosome", {}]
+  
+  And the the following GO annotations:
+  ["0032875 regulation of DNA endoreduplication", "0009416 response to light stimulus", "0007015 actin filament organization", "0030865 cortical cytoskeleton organization", "0007163 establishment or maintenance of cell polarity", "0032956 regulation of actin cytoskeleton organization", "0008360 regulation of cell shape", "0007264 small GTPase mediated signal transduction", "0051607 defense response to virus", "0051665 membrane raft localization", "0009751 response to salicylic acid"]
+  
+Interaction Network 143
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g34420", "at3g48040", "at3g27690"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", "ath04145 Phagosome"]
+  
+  And the the following GO annotations:
+  ["0032875 regulation of DNA endoreduplication", "0009416 response to light stimulus", "0007015 actin filament organization", "0030865 cortical cytoskeleton organization", "0007163 establishment or maintenance of cell polarity", "0032956 regulation of actin cytoskeleton organization", "0008360 regulation of cell shape", "0007264 small GTPase mediated signal transduction", "0071215 cellular response to abscisic acid stimulus", "1903428 positive regulation of reactive oxygen species biosynthetic process", "0090333 regulation of stomatal closure", "0009409 response to cold", "0009269 response to desiccation", "0010218 response to far red light", "0009644 response to high light intensity", "0009645 response to low light intensity stimulus", "0010114 response to red light", "0030104 water homeostasis"]
+  
+Interaction Network 144
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g34420", "at4g34840", "at3g27690"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", "ath00270 Cysteine and methionine metabolism"]
+  
+  And the the following GO annotations:
+  ["0032875 regulation of DNA endoreduplication", "0009416 response to light stimulus", "0009116 nucleoside metabolic process", "0010087 phloem or xylem histogenesis", "0000003 reproduction", "0009627 systemic acquired resistance", "0071215 cellular response to abscisic acid stimulus", "1903428 positive regulation of reactive oxygen species biosynthetic process", "0090333 regulation of stomatal closure", "0009409 response to cold", "0009269 response to desiccation", "0010218 response to far red light", "0009644 response to high light intensity", "0009645 response to low light intensity stimulus", "0010114 response to red light", "0030104 water homeostasis"]
+  
+Interaction Network 145
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g34420", "at1g79870", "at3g27690"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", "ath00260 Glycine, serine and threonine metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath01110 Biosynthesis of secondary metabolites", "ath01200 Carbon metabolism"]
+  
+  And the the following GO annotations:
+  ["0032875 regulation of DNA endoreduplication", "0009416 response to light stimulus", "0009854 oxidative photosynthetic carbon pathway", "0071215 cellular response to abscisic acid stimulus", "1903428 positive regulation of reactive oxygen species biosynthetic process", "0090333 regulation of stomatal closure", "0009409 response to cold", "0009269 response to desiccation", "0010218 response to far red light", "0009644 response to high light intensity", "0009645 response to low light intensity stimulus", "0010114 response to red light", "0030104 water homeostasis"]
+  
+Interaction Network 146
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g34420", "at1g79870", "at5g35630"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", "ath00260 Glycine, serine and threonine metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath01110 Biosynthesis of secondary metabolites", "ath01200 Carbon metabolism", "ath00220 Arginine biosynthesis", "ath00250 Alanine, aspartate and glutamate metabolism", "ath00910 Nitrogen metabolism", "ath01230 Biosynthesis of amino acids"]
+  
+  And the the following GO annotations:
+  ["0032875 regulation of DNA endoreduplication", "0009416 response to light stimulus", "0009854 oxidative photosynthetic carbon pathway", "0007568 aging", "0019676 ammonia assimilation cycle", "0006542 glutamine biosynthetic process", "0046686 response to cadmium ion", "0006807 nitrogen compound metabolic process"]
+  
+Interaction Network 147
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g34420", "at5g50240", "at3g27690"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0032875 regulation of DNA endoreduplication", "0009416 response to light stimulus", "0030091 protein repair", "0071215 cellular response to abscisic acid stimulus", "1903428 positive regulation of reactive oxygen species biosynthetic process", "0090333 regulation of stomatal closure", "0009409 response to cold", "0009269 response to desiccation", "0010218 response to far red light", "0009644 response to high light intensity", "0009645 response to low light intensity stimulus", "0010114 response to red light", "0030104 water homeostasis"]
+  
+Interaction Network 148
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g37800", "at4g02930", "at2g26740"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath04626 Plant-pathogen interaction"]
+  
+  And the the following GO annotations:
+  ["0042546 cell wall biogenesis", "0071555 cell wall organization", "0010411 xyloglucan metabolic process", "0070125 mitochondrial translational elongation", "0046686 response to cadmium ion", "0006414 translational elongation", "0042545 cell wall modification", "0045490 pectin catabolic process", "0009733 response to auxin", "0009414 response to water deprivation"]
+  
+Interaction Network 149
+  These genes of the original list interact with each other direct or indirectly:
+  ["at4g37800", "at4g37550", "at3g47340"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath00460 Cyanoamino acid metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath00910 Nitrogen metabolism", "ath01100 Metabolic pathways", "ath01200 Carbon metabolism", "ath00250 Alanine, aspartate and glutamate metabolism", "ath01110 Biosynthesis of secondary metabolites", "ath01230 Biosynthesis of amino acids"]
+  
+  And the the following GO annotations:
+  ["0042546 cell wall biogenesis", "0071555 cell wall organization", "0010411 xyloglucan metabolic process", "0006529 asparagine biosynthetic process", "0009063 cellular amino acid catabolic process", "0043617 cellular response to sucrose starvation", "0006541 glutamine metabolic process", "0009646 response to absence of light", "0009750 response to fructose", "0009749 response to glucose", "0009744 response to sucrose", "0006096 glycolytic process"]
+  
+Interaction Network 150
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g12900", "at1g44820", "at3g45780"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00710 Carbon fixation in photosynthetic organisms", "ath01100 Metabolic pathways", "ath01200 Carbon metabolism", "ath00220 Arginine biosynthesis", "ath01110 Biosynthesis of secondary metabolites", "ath01210 2-Oxocarboxylic acid metabolism", "ath01230 Biosynthesis of amino acids", {}]
+  
+  And the the following GO annotations:
+  ["0006006 glucose metabolic process", "0008643 carbohydrate transport", "0006520 cellular amino acid metabolic process", "0009904 chloroplast accumulation movement", "0009903 chloroplast avoidance movement", "0007623 circadian rhythm", "0010362 negative regulation of anion channel activity by blue light", "0009638 phototropism", "0046777 protein autophosphorylation", "0006468 protein phosphorylation", "0010155 regulation of proton transport", "0010119 regulation of stomatal movement", "0009637 response to blue light", "0050896 response to stimulus"]
+  
+Interaction Network 151
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g12900", "at3g54670", "at3g45780"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00710 Carbon fixation in photosynthetic organisms", "ath01100 Metabolic pathways", "ath01200 Carbon metabolism", {}]
+  
+  And the the following GO annotations:
+  ["0006006 glucose metabolic process", "0008643 carbohydrate transport", "0051301 cell division", "0007059 chromosome segregation", "0006281 DNA repair", "0051321 meiotic cell cycle", "0007064 mitotic sister chromatid cohesion", "0007062 sister chromatid cohesion", "0009904 chloroplast accumulation movement", "0009903 chloroplast avoidance movement", "0007623 circadian rhythm", "0010362 negative regulation of anion channel activity by blue light", "0009638 phototropism", "0046777 protein autophosphorylation", "0006468 protein phosphorylation", "0010155 regulation of proton transport", "0010119 regulation of stomatal movement", "0009637 response to blue light", "0050896 response to stimulus"]
+  
+Interaction Network 152
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g12900", "at5g19320", "at1g61520"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00710 Carbon fixation in photosynthetic organisms", "ath01100 Metabolic pathways", "ath01200 Carbon metabolism", "ath03013 Nucleocytoplasmic transport", "ath00196 Photosynthesis - antenna proteins"]
+  
+  And the the following GO annotations:
+  ["0006006 glucose metabolic process", "0008643 carbohydrate transport", "0006913 nucleocytoplasmic transport", "0009409 response to cold", "0009644 response to high light intensity", "0009416 response to light stimulus", "0009645 response to low light intensity stimulus"]
+  
+Interaction Network 153
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g55800", "at5g42980", "at3g50820"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00710 Carbon fixation in photosynthetic organisms", "ath01100 Metabolic pathways", "ath01200 Carbon metabolism", {}, "ath00195 Photosynthesis"]
+  
+  And the the following GO annotations:
+  ["0016051 carbohydrate biosynthetic process", "0042742 defense response to bacterium", "0006000 fructose metabolic process", "0006094 gluconeogenesis", "0019252 starch biosynthetic process", "0005986 sucrose biosynthetic process", "0005975 carbohydrate metabolic process", "0050832 defense response to fungus", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0010205 photoinhibition", "0010207 photosystem II assembly", "0042549 photosystem II stabilization", "0035304 regulation of protein dephosphorylation"]
+  
+Interaction Network 154
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g55800", "at5g42980", "at3g62410"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00710 Carbon fixation in photosynthetic organisms", "ath01100 Metabolic pathways", "ath01200 Carbon metabolism", {}]
+  
+  And the the following GO annotations:
+  ["0016051 carbohydrate biosynthetic process", "0042742 defense response to bacterium", "0006000 fructose metabolic process", "0006094 gluconeogenesis", "0019252 starch biosynthetic process", "0005986 sucrose biosynthetic process", "0005975 carbohydrate metabolic process", "0050832 defense response to fungus", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0071454 cellular response to anoxia", "0070417 cellular response to cold", "0034605 cellular response to heat", "0009416 response to light stimulus", "0009744 response to sucrose"]
+  
+Interaction Network 155
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g55800", "at5g42980", "at5g35630"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00710 Carbon fixation in photosynthetic organisms", "ath01100 Metabolic pathways", "ath01200 Carbon metabolism", {}, "ath00220 Arginine biosynthesis", "ath00250 Alanine, aspartate and glutamate metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath00910 Nitrogen metabolism", "ath01230 Biosynthesis of amino acids"]
+  
+  And the the following GO annotations:
+  ["0016051 carbohydrate biosynthetic process", "0042742 defense response to bacterium", "0006000 fructose metabolic process", "0006094 gluconeogenesis", "0019252 starch biosynthetic process", "0005986 sucrose biosynthetic process", "0005975 carbohydrate metabolic process", "0050832 defense response to fungus", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0007568 aging", "0019676 ammonia assimilation cycle", "0006542 glutamine biosynthetic process", "0046686 response to cadmium ion", "0006807 nitrogen compound metabolic process"]
+  
+Interaction Network 156
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g17300", "at1g10210", "at3g45780"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath04016 MAPK signaling pathway - plant"]
+  
+  And the the following GO annotations:
+  ["0007623 circadian rhythm", "0010600 regulation of auxin biosynthetic process", "0016567 protein ubiquitination", "0035556 intracellular signal transduction", "0009904 chloroplast accumulation movement", "0009903 chloroplast avoidance movement", "0010362 negative regulation of anion channel activity by blue light", "0009638 phototropism", "0046777 protein autophosphorylation", "0006468 protein phosphorylation", "0010155 regulation of proton transport", "0010119 regulation of stomatal movement", "0009637 response to blue light", "0050896 response to stimulus"]
+  
+Interaction Network 157
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g27690", "at1g79870", "at5g35630"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", "ath00260 Glycine, serine and threonine metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath01110 Biosynthesis of secondary metabolites", "ath01200 Carbon metabolism", "ath00220 Arginine biosynthesis", "ath00250 Alanine, aspartate and glutamate metabolism", "ath00910 Nitrogen metabolism", "ath01230 Biosynthesis of amino acids"]
+  
+  And the the following GO annotations:
+  ["0071215 cellular response to abscisic acid stimulus", "1903428 positive regulation of reactive oxygen species biosynthetic process", "0090333 regulation of stomatal closure", "0009409 response to cold", "0009269 response to desiccation", "0010218 response to far red light", "0009644 response to high light intensity", "0009416 response to light stimulus", "0009645 response to low light intensity stimulus", "0010114 response to red light", "0030104 water homeostasis", "0009854 oxidative photosynthetic carbon pathway", "0007568 aging", "0019676 ammonia assimilation cycle", "0006542 glutamine biosynthetic process", "0046686 response to cadmium ion", "0006807 nitrogen compound metabolic process"]
+  
+Interaction Network 158
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g27690", "at3g48040", "at3g61260"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", "ath04145 Phagosome", {}]
+  
+  And the the following GO annotations:
+  ["0071215 cellular response to abscisic acid stimulus", "1903428 positive regulation of reactive oxygen species biosynthetic process", "0090333 regulation of stomatal closure", "0009409 response to cold", "0009269 response to desiccation", "0010218 response to far red light", "0009644 response to high light intensity", "0009416 response to light stimulus", "0009645 response to low light intensity stimulus", "0010114 response to red light", "0030104 water homeostasis", "0007015 actin filament organization", "0030865 cortical cytoskeleton organization", "0007163 establishment or maintenance of cell polarity", "0032956 regulation of actin cytoskeleton organization", "0008360 regulation of cell shape", "0007264 small GTPase mediated signal transduction", "0051607 defense response to virus", "0051665 membrane raft localization", "0009751 response to salicylic acid"]
+  
+Interaction Network 159
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g26080", "at5g38890", "at3g45780"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00260 Glycine, serine and threonine metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath01200 Carbon metabolism", "ath03018 RNA degradation", {}]
+  
+  And the the following GO annotations:
+  ["0019464 glycine decarboxylation via glycine cleavage system", "0006546 glycine catabolic process", "0006396 RNA processing", "0009904 chloroplast accumulation movement", "0009903 chloroplast avoidance movement", "0007623 circadian rhythm", "0010362 negative regulation of anion channel activity by blue light", "0009638 phototropism", "0046777 protein autophosphorylation", "0006468 protein phosphorylation", "0010155 regulation of proton transport", "0010119 regulation of stomatal movement", "0009637 response to blue light", "0050896 response to stimulus"]
+  
+Interaction Network 160
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g26080", "at3g62870", "at3g54050"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00260 Glycine, serine and threonine metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath01200 Carbon metabolism", "ath03010 Ribosome", "ath00010 Glycolysis / Gluconeogenesis", "ath00030 Pentose phosphate pathway", "ath00051 Fructose and mannose metabolism", "ath00710 Carbon fixation in photosynthetic organisms"]
+  
+  And the the following GO annotations:
+  ["0019464 glycine decarboxylation via glycine cleavage system", "0006546 glycine catabolic process", "0042254 ribosome biogenesis", "0006000 fructose metabolic process", "0006094 gluconeogenesis", "0015979 photosynthesis", "0009773 photosynthetic electron transport in photosystem I", "0009409 response to cold", "0005986 sucrose biosynthetic process", "0005985 sucrose metabolic process", "0005975 carbohydrate metabolic process"]
+  
+Interaction Network 161
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g26080", "at3g62870", "at1g68570"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00260 Glycine, serine and threonine metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath01200 Carbon metabolism", "ath03010 Ribosome", {}]
+  
+  And the the following GO annotations:
+  ["0019464 glycine decarboxylation via glycine cleavage system", "0006546 glycine catabolic process", "0042254 ribosome biogenesis", "0010336 gibberellic acid homeostasis", "0042128 nitrate assimilation", "0006857 oligopeptide transport"]
+  
+Interaction Network 162
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g48360", "at1g26830", "at4g37610"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath04120 Ubiquitin mediated proteolysis"]
+  
+  And the the following GO annotations:
+  ["0007623 circadian rhythm", "0051973 positive regulation of telomerase activity", "0016567 protein ubiquitination", "0009737 response to abscisic acid", "0009733 response to auxin", "0009743 response to carbohydrate", "0009409 response to cold", "0042542 response to hydrogen peroxide", "0009753 response to jasmonic acid", "0010167 response to nitrate", "0009751 response to salicylic acid", "0009651 response to salt stress", "0009611 response to wounding", "0010182 sugar mediated signaling pathway", "0009911 positive regulation of flower development", "0009639 response to red or far red light", "0010200 response to chitin"]
+  
+Interaction Network 163
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g48360", "at4g09570", "at3g54050"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath04626 Plant-pathogen interaction", "ath00010 Glycolysis / Gluconeogenesis", "ath00030 Pentose phosphate pathway", "ath00051 Fructose and mannose metabolism", "ath00710 Carbon fixation in photosynthetic organisms", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath01200 Carbon metabolism"]
+  
+  And the the following GO annotations:
+  ["0007623 circadian rhythm", "0051973 positive regulation of telomerase activity", "0016567 protein ubiquitination", "0009737 response to abscisic acid", "0009733 response to auxin", "0009743 response to carbohydrate", "0009409 response to cold", "0042542 response to hydrogen peroxide", "0009753 response to jasmonic acid", "0010167 response to nitrate", "0009751 response to salicylic acid", "0009651 response to salt stress", "0009611 response to wounding", "0010182 sugar mediated signaling pathway", "0035556 intracellular signal transduction", "0046777 protein autophosphorylation", "0006000 fructose metabolic process", "0006094 gluconeogenesis", "0015979 photosynthesis", "0009773 photosynthetic electron transport in photosystem I", "0005986 sucrose biosynthetic process", "0005985 sucrose metabolic process", "0005975 carbohydrate metabolic process"]
+  
+Interaction Network 164
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g43010", "at2g01570", "at3g16250"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath04075 Plant hormone signal transduction", {}]
+  
+  And the the following GO annotations:
+  ["0009638 phototropism", "0010161 red light signaling pathway", "0010600 regulation of auxin biosynthetic process", "0010928 regulation of auxin mediated signaling pathway", "0009740 gibberellic acid mediated signaling pathway", "0042538 hyperosmotic salinity response", "0009867 jasmonic acid mediated signaling pathway", "0033206 meiotic cytokinesis", "1905614 negative regulation of developmental vegetative growth", "0009938 negative regulation of gibberellic acid mediated signaling pathway", "1905622 negative regulation of leaf development", "0010187 negative regulation of seed germination", "1900033 negative regulation of trichome patterning", "0010628 positive regulation of gene expression", "0042176 regulation of protein catabolic process", "2000377 regulation of reactive oxygen species metabolic process", "2000033 regulation of seed dormancy process", "0010029 regulation of seed germination", "0009737 response to abscisic acid", "0009723 response to ethylene", "0010218 response to far red light", "0009739 response to gibberellin", "0009863 salicylic acid mediated signaling pathway", "0009773 photosynthetic electron transport in photosystem I"]
+  
+Interaction Network 165
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g28220", "at3g15710", "at2g47930"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath03060 Protein export"]
+  
+  And the the following GO annotations:
+  ["0006465 signal peptide processing", "0080167 response to karrikin"]
+  
+Interaction Network 166
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g28220", "at3g46890", "at5g43750"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0006979 response to oxidative stress"]
+  
+Interaction Network 167
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g28220", "at4g20790", "at5g43750"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0010158 abaxial cell fate specification", "0006979 response to oxidative stress"]
+  
+Interaction Network 168
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g28220", "at4g20790", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0010158 abaxial cell fate specification", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 169
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g28220", "at1g44960", "at1g69870"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0010073 meristem maintenance", "0042128 nitrate assimilation", "0015706 nitrate transport"]
+  
+Interaction Network 170
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g26740", "at3g17240", "at5g48300"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath00010 Glycolysis / Gluconeogenesis", "ath00020 Citrate cycle (TCA cycle)", "ath00260 Glycine, serine and threonine metabolism", "ath00280 Valine, leucine and isoleucine degradation", "ath00310 Lysine degradation", "ath00380 Tryptophan metabolism", "ath00620 Pyruvate metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath00640 Propanoate metabolism", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath01200 Carbon metabolism", "ath01240 Biosynthesis of cofactors", "ath00500 Starch and sucrose metabolism", "ath00520 Amino sugar and nucleotide sugar metabolism", "ath01250 Biosynthesis of nucleotide sugars"]
+  
+  And the the following GO annotations:
+  ["0009733 response to auxin", "0009414 response to water deprivation", "0045454 cell redox homeostasis", "0046686 response to cadmium ion", "0005978 glycogen biosynthetic process", "0019252 starch biosynthetic process", "0006457 protein folding"]
+  
+Interaction Network 171
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g54050", "at3g62870", "at1g68570"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00010 Glycolysis / Gluconeogenesis", "ath00030 Pentose phosphate pathway", "ath00051 Fructose and mannose metabolism", "ath00710 Carbon fixation in photosynthetic organisms", "ath01100 Metabolic pathways", "ath01110 Biosynthesis of secondary metabolites", "ath01200 Carbon metabolism", "ath03010 Ribosome", {}]
+  
+  And the the following GO annotations:
+  ["0006000 fructose metabolic process", "0006094 gluconeogenesis", "0015979 photosynthesis", "0009773 photosynthetic electron transport in photosystem I", "0009409 response to cold", "0005986 sucrose biosynthetic process", "0005985 sucrose metabolic process", "0005975 carbohydrate metabolic process", "0042254 ribosome biogenesis", "0010336 gibberellic acid homeostasis", "0042128 nitrate assimilation", "0006857 oligopeptide transport"]
+  
+Interaction Network 172
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g45780", "at2g02950", "at1g14280"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0009904 chloroplast accumulation movement", "0009903 chloroplast avoidance movement", "0007623 circadian rhythm", "0010362 negative regulation of anion channel activity by blue light", "0009638 phototropism", "0046777 protein autophosphorylation", "0006468 protein phosphorylation", "0010155 regulation of proton transport", "0010119 regulation of stomatal movement", "0009637 response to blue light", "0050896 response to stimulus", "0009958 positive gravitropism", "0010218 response to far red light", "0010114 response to red light", "0048366 leaf development"]
+  
+Interaction Network 173
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g30950", "at1g22920", "at3g16250"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0009658 chloroplast organization", "0010205 photoinhibition", "0048564 photosystem I assembly", "0010206 photosystem II repair", "0030163 protein catabolic process", "0006508 proteolysis", "0072593 reactive oxygen species metabolic process", "0010027 thylakoid membrane organization", "0010387 COP9 signalosome assembly", "0010100 negative regulation of photomorphogenesis", "0000338 protein deneddylation", "0031347 regulation of defense response", "0009733 response to auxin", "0010093 specification of floral organ identity", "0009773 photosynthetic electron transport in photosystem I"]
+  
+Interaction Network 174
+  These genes of the original list interact with each other direct or indirectly:
+  ["at2g30950", "at1g22920", "at3g62410"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0009658 chloroplast organization", "0010205 photoinhibition", "0048564 photosystem I assembly", "0010206 photosystem II repair", "0030163 protein catabolic process", "0006508 proteolysis", "0072593 reactive oxygen species metabolic process", "0010027 thylakoid membrane organization", "0010387 COP9 signalosome assembly", "0010100 negative regulation of photomorphogenesis", "0000338 protein deneddylation", "0031347 regulation of defense response", "0009733 response to auxin", "0010093 specification of floral organ identity", "0071454 cellular response to anoxia", "0070417 cellular response to cold", "0034605 cellular response to heat", "0009416 response to light stimulus", "0009744 response to sucrose"]
+  
+Interaction Network 175
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g62410", "at5g42980", "at3g50820"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath00195 Photosynthesis", "ath01100 Metabolic pathways"]
+  
+  And the the following GO annotations:
+  ["0071454 cellular response to anoxia", "0070417 cellular response to cold", "0034605 cellular response to heat", "0009416 response to light stimulus", "0009744 response to sucrose", "0050832 defense response to fungus", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0010205 photoinhibition", "0010207 photosystem II assembly", "0042549 photosystem II stabilization", "0035304 regulation of protein dephosphorylation"]
+  
+Interaction Network 176
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g62410", "at5g42980", "at5g35630"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath00220 Arginine biosynthesis", "ath00250 Alanine, aspartate and glutamate metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath00910 Nitrogen metabolism", "ath01100 Metabolic pathways", "ath01230 Biosynthesis of amino acids"]
+  
+  And the the following GO annotations:
+  ["0071454 cellular response to anoxia", "0070417 cellular response to cold", "0034605 cellular response to heat", "0009416 response to light stimulus", "0009744 response to sucrose", "0050832 defense response to fungus", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0007568 aging", "0019676 ammonia assimilation cycle", "0006542 glutamine biosynthetic process", "0046686 response to cadmium ion", "0006807 nitrogen compound metabolic process"]
+  
+Interaction Network 177
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g62410", "at1g22920", "at3g16250"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0071454 cellular response to anoxia", "0070417 cellular response to cold", "0034605 cellular response to heat", "0009416 response to light stimulus", "0009744 response to sucrose", "0010387 COP9 signalosome assembly", "0010100 negative regulation of photomorphogenesis", "0000338 protein deneddylation", "0031347 regulation of defense response", "0009733 response to auxin", "0010093 specification of floral organ identity", "0009773 photosynthetic electron transport in photosystem I"]
+  
+Interaction Network 178
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g16250", "at3g48150", "at4g02770"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath04120 Ubiquitin mediated proteolysis", "ath00195 Photosynthesis", "ath01100 Metabolic pathways"]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0051301 cell division", "0016567 protein ubiquitination", "0031347 regulation of defense response", "0007049 cell cycle", "0140547 acquisition of seed longevity", "0015979 photosynthesis", "0035556 intracellular signal transduction"]
+  
+Interaction Network 179
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g16250", "at3g47620", "at1g29910"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways"]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0010229 inflorescence development", "0031347 regulation of defense response", "0010029 regulation of seed germination", "0009737 response to abscisic acid", "0009735 response to cytokinin", "0009739 response to gibberellin", "0015031 protein transport", "0009750 response to fructose", "0009416 response to light stimulus", "0009733 response to auxin"]
+  
+Interaction Network 180
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g16250", "at3g47620", "at1g29920"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways"]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0010229 inflorescence development", "0031347 regulation of defense response", "0010029 regulation of seed germination", "0009737 response to abscisic acid", "0009735 response to cytokinin", "0009739 response to gibberellin", "0015031 protein transport", "0009750 response to fructose", "0009416 response to light stimulus"]
+  
+Interaction Network 181
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g16250", "at3g47620", "at4g02770"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath00195 Photosynthesis", "ath01100 Metabolic pathways"]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0010229 inflorescence development", "0031347 regulation of defense response", "0010029 regulation of seed germination", "0009737 response to abscisic acid", "0009735 response to cytokinin", "0009739 response to gibberellin", "0015031 protein transport", "0140547 acquisition of seed longevity", "0015979 photosynthesis", "0035556 intracellular signal transduction"]
+  
+Interaction Network 182
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g16250", "at3g53900", "at4g09010"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath00240 Pyrimidine metabolism", "ath01100 Metabolic pathways", "ath00053 Ascorbate and aldarate metabolism", "ath00480 Glutathione metabolism"]
+  
+  And the the following GO annotations:
+  ["0009773 photosynthetic electron transport in photosystem I", "0016036 cellular response to phosphate starvation", "0032502 developmental process", "0009116 nucleoside metabolic process", "0044206 UMP salvage", "0006223 uracil salvage", "0019252 starch biosynthetic process", "0034599 cellular response to oxidative stress", "0042744 hydrogen peroxide catabolic process", "0000302 response to reactive oxygen species"]
+  
+Interaction Network 183
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g35630", "at5g42980", "at3g50820"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00220 Arginine biosynthesis", "ath00250 Alanine, aspartate and glutamate metabolism", "ath00630 Glyoxylate and dicarboxylate metabolism", "ath00910 Nitrogen metabolism", "ath01100 Metabolic pathways", "ath01230 Biosynthesis of amino acids", {}, "ath00195 Photosynthesis"]
+  
+  And the the following GO annotations:
+  ["0007568 aging", "0019676 ammonia assimilation cycle", "0006542 glutamine biosynthetic process", "0046686 response to cadmium ion", "0006807 nitrogen compound metabolic process", "0050832 defense response to fungus", "0010286 heat acclimation", "0051259 protein complex oligomerization", "0006457 protein folding", "0009408 response to heat", "0010188 response to microbial phytotoxin", "0010205 photoinhibition", "0010207 photosystem II assembly", "0042549 photosystem II stabilization", "0035304 regulation of protein dephosphorylation"]
+  
+Interaction Network 184
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g29910", "at3g47620", "at1g29920"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0009750 response to fructose", "0009416 response to light stimulus", "0009733 response to auxin", "0010229 inflorescence development", "0031347 regulation of defense response", "0010029 regulation of seed germination", "0009737 response to abscisic acid", "0009735 response to cytokinin", "0009739 response to gibberellin", "0015031 protein transport"]
+  
+Interaction Network 185
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g29910", "at3g47620", "at4g02770"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", {}, "ath00195 Photosynthesis"]
+  
+  And the the following GO annotations:
+  ["0009750 response to fructose", "0009416 response to light stimulus", "0009733 response to auxin", "0010229 inflorescence development", "0031347 regulation of defense response", "0010029 regulation of seed germination", "0009737 response to abscisic acid", "0009735 response to cytokinin", "0009739 response to gibberellin", "0015031 protein transport", "0140547 acquisition of seed longevity", "0015979 photosynthesis", "0035556 intracellular signal transduction"]
+  
+Interaction Network 186
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g69870", "at1g17280", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath04120 Ubiquitin mediated proteolysis", "ath04141 Protein processing in endoplasmic reticulum"]
+  
+  And the the following GO annotations:
+  ["0042128 nitrate assimilation", "0015706 nitrate transport", "0042631 cellular response to water deprivation", "1902457 negative regulation of stomatal opening", "0000209 protein polyubiquitination", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 187
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g69870", "at1g17280", "at5g43750"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath04120 Ubiquitin mediated proteolysis", "ath04141 Protein processing in endoplasmic reticulum"]
+  
+  And the the following GO annotations:
+  ["0042128 nitrate assimilation", "0015706 nitrate transport", "0042631 cellular response to water deprivation", "1902457 negative regulation of stomatal opening", "0000209 protein polyubiquitination", "0006979 response to oxidative stress"]
+  
+Interaction Network 188
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g69870", "at4g14455", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath04130 SNARE interactions in vesicular transport"]
+  
+  And the the following GO annotations:
+  ["0042128 nitrate assimilation", "0015706 nitrate transport", "0015031 protein transport", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 189
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g69870", "at1g14700", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath00740 Riboflavin metabolism", "ath01100 Metabolic pathways"]
+  
+  And the the following GO annotations:
+  ["0042128 nitrate assimilation", "0015706 nitrate transport", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 190
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g69870", "at5g06320", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0042128 nitrate assimilation", "0015706 nitrate transport", "0071456 cellular response to hypoxia", "0042742 defense response to bacterium", "0051607 defense response to virus", "0009617 response to bacterium", "0009751 response to salicylic acid", "0009611 response to wounding", "0098542 defense response to other organism", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 191
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g69870", "at1g47640", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0042128 nitrate assimilation", "0015706 nitrate transport", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 192
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g69870", "at2g22425", "at5g43750"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath03060 Protein export"]
+  
+  And the the following GO annotations:
+  ["0042128 nitrate assimilation", "0015706 nitrate transport", "0045047 protein targeting to ER", "0006465 signal peptide processing", "0048658 anther wall tapetum development", "0006979 response to oxidative stress"]
+  
+Interaction Network 193
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g69870", "at1g07860", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0042128 nitrate assimilation", "0015706 nitrate transport", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 194
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g69870", "at5g11890", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0042128 nitrate assimilation", "0015706 nitrate transport", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 195
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g69870", "at4g30850", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0042128 nitrate assimilation", "0015706 nitrate transport", "0009725 response to hormone", "0009744 response to sucrose", "0006265 DNA topological change", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 196
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g69870", "at3g17000", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath04120 Ubiquitin mediated proteolysis", "ath04141 Protein processing in endoplasmic reticulum"]
+  
+  And the the following GO annotations:
+  ["0042128 nitrate assimilation", "0015706 nitrate transport", "0042631 cellular response to water deprivation", "1902457 negative regulation of stomatal opening", "0000209 protein polyubiquitination", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 197
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g69870", "at5g37050", "at5g43750"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0042128 nitrate assimilation", "0015706 nitrate transport", "0006979 response to oxidative stress"]
+  
+Interaction Network 198
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g69870", "at5g37050", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0042128 nitrate assimilation", "0015706 nitrate transport", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 199
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g69870", "at5g37050", "at3g61260"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0042128 nitrate assimilation", "0015706 nitrate transport", "0051607 defense response to virus", "0051665 membrane raft localization", "0009751 response to salicylic acid"]
+  
+Interaction Network 200
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g69870", "at3g12180", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0042128 nitrate assimilation", "0015706 nitrate transport", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 201
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g69870", "at3g12180", "at3g61260"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0042128 nitrate assimilation", "0015706 nitrate transport", "0051607 defense response to virus", "0051665 membrane raft localization", "0009751 response to salicylic acid"]
+  
+Interaction Network 202
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g69870", "at3g12180", "at5g43750"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0042128 nitrate assimilation", "0015706 nitrate transport", "0006979 response to oxidative stress"]
+  
+Interaction Network 203
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g69870", "at2g26180", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0042128 nitrate assimilation", "0015706 nitrate transport", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 204
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g69870", "at2g26180", "at3g61260"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0042128 nitrate assimilation", "0015706 nitrate transport", "0051607 defense response to virus", "0051665 membrane raft localization", "0009751 response to salicylic acid"]
+  
+Interaction Network 205
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g69870", "at1g29060", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath04130 SNARE interactions in vesicular transport"]
+  
+  And the the following GO annotations:
+  ["0042128 nitrate assimilation", "0015706 nitrate transport", "1901002 positive regulation of response to salt stress", "0015031 protein transport", "0047484 regulation of response to osmotic stress", "0043182 vacuolar sequestering of sodium ion", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 206
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g69870", "at1g29060", "at5g43750"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath04130 SNARE interactions in vesicular transport"]
+  
+  And the the following GO annotations:
+  ["0042128 nitrate assimilation", "0015706 nitrate transport", "1901002 positive regulation of response to salt stress", "0015031 protein transport", "0047484 regulation of response to osmotic stress", "0043182 vacuolar sequestering of sodium ion", "0006979 response to oxidative stress"]
+  
+Interaction Network 207
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g43750", "at5g59650", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0006979 response to oxidative stress", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 208
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g43750", "at1g21240", "at3g61260"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0006979 response to oxidative stress", "0007166 cell surface receptor signaling pathway", "0006468 protein phosphorylation", "0051607 defense response to virus", "0051665 membrane raft localization", "0009751 response to salicylic acid"]
+  
+Interaction Network 209
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g43750", "at5g37050", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0006979 response to oxidative stress", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 210
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g43750", "at5g37050", "at3g61260"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0006979 response to oxidative stress", "0051607 defense response to virus", "0051665 membrane raft localization", "0009751 response to salicylic acid"]
+  
+Interaction Network 211
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g43750", "at1g29060", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath04130 SNARE interactions in vesicular transport"]
+  
+  And the the following GO annotations:
+  ["0006979 response to oxidative stress", "1901002 positive regulation of response to salt stress", "0015031 protein transport", "0047484 regulation of response to osmotic stress", "0043182 vacuolar sequestering of sodium ion", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 212
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g43750", "at1g17280", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}, "ath04120 Ubiquitin mediated proteolysis", "ath04141 Protein processing in endoplasmic reticulum"]
+  
+  And the the following GO annotations:
+  ["0006979 response to oxidative stress", "0042631 cellular response to water deprivation", "1902457 negative regulation of stomatal opening", "0000209 protein polyubiquitination", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 213
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g43750", "at3g12180", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0006979 response to oxidative stress", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 214
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g43750", "at3g12180", "at3g61260"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0006979 response to oxidative stress", "0051607 defense response to virus", "0051665 membrane raft localization", "0009751 response to salicylic acid"]
+  
+Interaction Network 215
+  These genes of the original list interact with each other direct or indirectly:
+  ["at5g43750", "at4g20790", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0006979 response to oxidative stress", "0010158 abaxial cell fate specification", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 216
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g61260", "at2g26180", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0051607 defense response to virus", "0051665 membrane raft localization", "0009751 response to salicylic acid", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 217
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g61260", "at5g37050", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0051607 defense response to virus", "0051665 membrane raft localization", "0009751 response to salicylic acid", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 218
+  These genes of the original list interact with each other direct or indirectly:
+  ["at3g61260", "at3g12180", "at5g38990"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  [{}]
+  
+  And the the following GO annotations:
+  ["0051607 defense response to virus", "0051665 membrane raft localization", "0009751 response to salicylic acid", "0046777 protein autophosphorylation", "0010038 response to metal ion"]
+  
+Interaction Network 219
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g29920", "at3g47620", "at4g02770"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", {}, "ath00195 Photosynthesis"]
+  
+  And the the following GO annotations:
+  ["0009750 response to fructose", "0009416 response to light stimulus", "0010229 inflorescence development", "0031347 regulation of defense response", "0010029 regulation of seed germination", "0009737 response to abscisic acid", "0009735 response to cytokinin", "0009739 response to gibberellin", "0015031 protein transport", "0140547 acquisition of seed longevity", "0015979 photosynthesis", "0035556 intracellular signal transduction"]
+  
+Interaction Network 220
+  These genes of the original list interact with each other direct or indirectly:
+  ["at1g29920", "at3g26090", "at5g01530"].
+  
+  Taking all of them into account we get the following KEGG annotations:
+  ["ath00196 Photosynthesis - antenna proteins", "ath01100 Metabolic pathways", {}]
+  
+  And the the following GO annotations:
+  ["0009750 response to fructose", "0009416 response to light stimulus", "0009867 jasmonic acid mediated signaling pathway", "0009968 negative regulation of signal transduction", "0043547 positive regulation of GTPase activity", "0042127 regulation of cell population proliferation", "0009737 response to abscisic acid", "0009749 response to glucose", "0009414 response to water deprivation", "0010182 sugar mediated signaling pathway"]
+  
