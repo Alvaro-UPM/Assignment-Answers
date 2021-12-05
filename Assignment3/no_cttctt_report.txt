@@ -1,0 +1,12 @@
+Here we report the AGIs of the genes which exons have not any 'CTTCTT' repeats in the sequence:
+AT4G27040
+AT2G08665
+AT3G02720
+AT5G01015
+AT1G14150
+AT2G26740
+AT1G28330
+AT1G29910
+AT5G43750
+AT1G13930
+AT1G29920
