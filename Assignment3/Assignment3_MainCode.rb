@@ -1,3 +1,10 @@
+=begin
+Personal note:
+I know my last github submit is quite late. These last weeks have been so busy for me and I did my best.
+Although I know it is probably quite improvable, I hope you enjoy my code :)
+=end
+
+
 require 'bio' #requering BioRuby
 require 'rest-client' #to access the web
 require 'enumerator' #to get the coordinates of the match
@@ -83,9 +90,9 @@ all_record = [] # an array to get all the "dirty" response body
 all_embl = [] # an array in which we are going to introduce all the Bio:EMBL created from the web call response of all the AGIs
 original_agi.each do |x|
   
-  res = fetch("http://www.ebi.ac.uk/Tools/dbfetch/dbfetch?db=ensemblgenomesgene&format=embl&id=#{x}"); #calling the web
+  res = fetch("http://www.ebi.ac.uk/Tools/dbfetch/dbfetch?db=ensemblgenomesgene&format=embl&id=#{x}"); # calling the web
 
-  if res 
+  if res # if there is response
     record = res.body
     all_record[i] = res.body 
     all_embl[i] = Bio::EMBL.new(res.body) # introducing the body's response into a new Bio:EMBL (EnsEMBL Sequence Object)
@@ -101,56 +108,86 @@ end
 
 # Adding new 'cttctt' features to the EnsEMBL Sequence objects
 #.....................................
-all_embl.each do |embl|
+all_embl.each do |embl| 
 
-   seq = embl.seq # seq is the sequence of the embl
+  seq = embl.seq # seq is the sequence of the embl
   exon_pos = [] # positions of the exons
   exon_seq = [] # sequence of the exons
   cttctt_coordinates = [] # the cttctt coordinates of the exon being "analyzed"
   cttctt_pos = [] # cttctt position of all the exons of the embl being "running"
-  i=0
+  i=0 # each embl "i" and "j" itinerators start from 0
   j=0
+  
+=begin
+Since there are some "complement" exon which coordinates are refered to the "reverse" chain,
+we use this to get the gene sequence lenght and, that way, be able to get the "real" ("forward") position of
+these "complement" exons by substrating the start position obtained in "complement(start_pos..end_pos)"
+from the gene length.
+To get the gene length we know (by revising the data previously) that
+the first feature's position is always refered to the gene start and end position inside the gene sequence,
+so this "end position" is the gene length.
+=end
+  if embl.features[0] and embl.features[0].position.match(position) # if there is features[0] and it match position regexp
+    gene_length = "#{embl.features[0].position.match(position)[2]}".to_i # get the third element of the match (end_pos) as the gene length
+  end
 
-    embl.features.each do |feature|
+    embl.features.each do |feature| # know we itinerate inside the features to get the exon_pos, exon_seq and cttctt_pos inside these exons
 
     if feature.feature == "exon" # if the feature is called "exon"
-      exon_position = feature.position # getting the exon position
+      exon_position = feature.position # get the exon position
          if exon_position.match(position) 
-           # and if the position get one of our specific regular expression for "forward" exons
+           # and if this position match our specific regular expression for "forward" exons (position regexp)
            exon_pos[i] = "#{exon_position.match(position)[1]}", "#{exon_position.match(position)[2]}" #get the exon position
-           exon_seq[i] = seq["#{exon_pos[i][0]}".to_i.."#{exon_pos[i][1]}".to_i] # we get the sequence between the positions
+           exon_seq[i] = seq["#{exon_pos[i][0]}".to_i.."#{exon_pos[i][1]}".to_i] # and then we get the sequence between the positions
            #in the complete gene sequence (previously called "seq")
-           i=i+1
+           i=i+1 #add +1 to the itinerator
            
           elsif exon_position.match(complement_position)
-           # or if the position get one of our specific regular expression for "complement" exons (but not "weird" ones)
-           exon_pos[i] = "#{exon_position.match(complement_position)[1]}", "#{exon_position.match(complement_position)[2]}" #get the exon position
-           exon_seq[i] = seq["#{exon_pos[i][0]}".to_i.."#{exon_pos[i][1]}".to_i] # we get the sequence between the positions
+           # and if the position match our specific regular expression for "complement" exons (but not "weird" ones) (complement_position regexp)
+           exon_pos[i] = "#{gene_length - exon_position.match(complement_position)[2].to_i}", "#{gene_length - exon_position.match(complement_position)[1].to_i}"
+           #get the exon position
+           exon_seq[i] = seq["#{exon_pos[i][0]}".to_i.."#{exon_pos[i][1]}".to_i] # and then we get the sequence between the positions
            #in the complete gene sequence (previously called "seq")
-           i=i+1
+           i=i+1 #add +1
          
          end
-  
+
+=begin
+Since we add +1 to "i" just after the adding of a new exon_pos or exon_seq,
+in the following code, when we write "i-1" we are refering to the last exon_pos or exon_seq that was added
+=end
       
-            if cttctt_match.match(exon_seq[i-1]) # if there is 'cttctt' inside the exon_seq, get its coordinates (using the method below)
-                cttctt_repeat_start = exon_seq[i-1].enum_for(:scan, /(?=(cttctt))/i).map { Regexp.last_match.begin(0) +1}.uniq.compact 
-                cttctt_repeat_start.each do |repeat|
-                  cttctt_coordinates[j] = repeat, repeat + 6, "+"
+            if cttctt_match.match(exon_seq[i-1])
+             # if there is 'cttctt' inside the exon_seq, get its coordinates 
+                cttctt_repeat_start = exon_seq[i-1].enum_for(:scan, /(?=(cttctt))/i).map { Regexp.last_match.begin(0) }.uniq.compact
+                # we use this method that "scan" the sequence string looking for 'cttctt' repeats an return an array with the begin position in the string
+                cttctt_repeat_start.each do |repeat| # for each of these 'cttctt' repeat found we introduce it in a new array
+                 # adding the exon position inside the whole gene to its position inside the exon to represent it start_pos,
+                 # adding +5 for the represent its end_pos (we know the last 't' is 5 position far from the first 'c')
+                 # about this last +5, I have to say that I used +6 to get the gff3 that I introduced in EnsEMBL in order to avoid
+                 # the overlap between the differet 'cttctt' repeats in the chromosome graphic representation
+                 # so in the attached screenshot we match the next nucleotide after the last 't' on purpose.
+                  # And we add "+" because it is a match in the forward chain
+                  cttctt_coordinates[j] = repeat + exon_pos[i-1][0].to_i, repeat + exon_pos[i-1][0].to_i + 5, "+"
                   cttctt_coordinates = cttctt_coordinates.compact
                   j=j+1
                 end
-                 #we substract -1 at the end (exon_pos[i][0].to_i - 1) in order to get the real ending position, that is, the last 'T' (and not like an ruby array numeration)
+                 # since in the 'cttctt' position using "scan" method the first number is 0
+                 # and in the exon position is 1 we do not need to add or substract any number,
+                 # we are directly getting the rigth position for introduce our gff3 file in EnsEMBL
                 
             end
            
-            if aagaag_match.match(exon_seq[i-1]) # if there is 'cttctt' inside the exon_seq, get its coordinates (using the method below)
-                cttctt_repeat_start = exon_seq[i-1].enum_for(:scan, /(?=(aagaag))/i).map { Regexp.last_match.begin(0) +1}.uniq.compact 
+            if aagaag_match.match(exon_seq[i-1]) # we do exactly the same here but matching 'aagaag'
+            # since it is the sequence that you get if you looks for 'cttctt' in the reverse chain in 5' 3' direction
+                cttctt_repeat_start = exon_seq[i-1].enum_for(:scan, /(?=(aagaag))/i).map { Regexp.last_match.begin(0) }.uniq.compact 
                 cttctt_repeat_start.each do |repeat|
-                  cttctt_coordinates[j] = repeat, repeat + 6, "-"
+                  cttctt_coordinates[j] = repeat + exon_pos[i-1][0].to_i, repeat + exon_pos[i-1][0].to_i + 5, "-"
+                  # we introduce them as 'cttctt' repeats but adding "-" to indicate that we are talking about the reverse chain
                   cttctt_coordinates = cttctt_coordinates.compact
                   j=j+1
                 end
-                 #we substract -1 at the end (exon_pos[i][0].to_i - 1) in order to get the real ending position, that is, the last 'T' (and not like an ruby array numeration)
+                 
                 
             end
         end
@@ -176,7 +213,7 @@ end
 =begin
 Since the gff3 format "fields" (or headers) are: "seqid", "source", "type", "start", "end", "strand", "phase", "attributes"
 Here, we fix the "string" that we want to be always in some of these "fields".
-In fact, we are fixing the most of them and we are only having differences "string" in "seqid", "start" and "end" fiedls.
+In fact, we are fixing some of them and we are only having different "strings" in "seqid", "start", "end" and "strand" fiedls.
 =end
 
 source = "EnsEMBL"
@@ -223,9 +260,9 @@ all_embl.each do |embl|
       end
     
   end
-  if differentiator == 1 #if the fields_arr keeps empty after all the features itinerations 
+  if differentiator == 1 #if the differentiator keeps equals to 1 after all the features itinerations 
   # that means that it was not created a new feature called "cttctt" for that embl
-  # because there is not 'cttct' repeats in any of its exons' sequences
+  # so there is not 'cttct' repeats in any of its exons' sequences
     report.write("#{seqid}\n") # So, in this case, we write its seqid as a new line in the report file
   end
     
