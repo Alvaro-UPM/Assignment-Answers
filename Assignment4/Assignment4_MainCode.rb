@@ -10,8 +10,8 @@ fasta_header = Regexp.new(/^>/) # to match the fasta format headers (all start t
 
 
 # reading both .fa files
-pep_file = File.new("Databases/pep.fa", "r") # S.pombe 
-arab_file = File.new("Databases/arab.fa", "r") # A.thaliana
+pep_file = File.new("./Databases/pep.fa", "r") # S.pombe 
+arab_file = File.new("./Databases/arab.fa", "r") # A.thaliana
 
 # we divide these files in lines 
 pep_lines = File.readlines(pep_file)
@@ -137,8 +137,8 @@ pep_fasta.each do |pep| # each S.pombe fasta entry
   end
   
   next unless arab_hits[0] != nil # if there is best hit
-  next unless arab_hits[0][1] < 0.01 # Hits with e-value (arab_hits[0][1]) smaller than 0.01 can be considered as good hit for homology matches (source: https://www.metagenomics.wiki/tools/blast/evalue)
-  if arab_hits[0][2] == pep_fasta_sample.index(pep)
+  next unless arab_hits[0][1].to_f < 0.01 # Hits with e-value (arab_hits[0][1]) smaller than 0.01 can be considered as good hit for homology matches (source: https://www.metagenomics.wiki/tools/blast/evalue)
+  if arab_hits[0][2] == pep_fasta.index(pep)
     # check if it is a reciprocal best hit, by checking is the "target_id" is the same as the index of the "running" pep (that we use in the first BLAST)
     orthologue_candidates[n] = "#{pep.split("\n")[0]} and #{arab.split("\n")[0]}" # introduce the two candidates fasta header into the "orthologue_candidates" array
     n=n+1
